@@ -1,0 +1,209 @@
+[
+    {
+        "type": "div",
+        "cssClass": "node-block user-div alert",
+        "content": [
+            {
+                "type": "span",
+                "html": "¡Esa es la evolución definitiva! Tener un icono en la pantalla de inicio de tu móvil que, al pulsarlo, encienda el servidor de fondo y te abra Chrome automáticamente como si fuera una app nativa."
+            },
+            {
+                "type": "span",
+                "html": "Para hacer esto, Termux tiene una extensión oficial llamada **Termux:Widget**. Aquí tienes los pasos exactos para configurarlo:"
+            },
+            {
+                "type": "h3",
+                "html": "PASO 1: Instalar la extensión Termux:Widget"
+            },
+            {
+                "type": "span",
+                "html": "Igual que hiciste con Termux, debes descargar esta extensión desde **F-Droid** (si la bajas de la Google Play Store, dará error de incompatibilidad)."
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "Busca y descarga **Termux:Widget** en F-Droid, o bájala directamente desde aquí si tienes F-Droid instalado: Termux:Widget en F-Droid"
+                ]
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "Instálala en tu móvil."
+                ]
+            },
+            {
+                "type": "h3",
+                "html": "PASO 2: Crear la carpeta de accesos directos"
+            },
+            {
+                "type": "span",
+                "html": "Abre tu consola de Termux normal y crea la carpeta oculta especial que lee el Widget para mostrar los botones:"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "span",
+                "html": "mkdir -p ~/.shortcuts"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "h3",
+                "html": "PASO 3: Crear el script del botón"
+            },
+            {
+                "type": "span",
+                "html": "Vamos a crear un archivo dentro de esa carpeta. Le llamaremos Lanzar_TubeDJ.sh (este será el nombre que aparecerá debajo del icono en tu pantalla):"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "span",
+                "html": "nano ~/.shortcuts/Lanzar_TubeDJ.sh"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "span",
+                "html": "Pega el siguiente código dentro (es casi idéntico a tu comando dj, pero adaptado para ejecutarse como un script independiente):"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "span",
+                "html": "#!/bin/bash"
+            },
+            {
+                "type": "h1",
+                "html": "1. Matar sesiones previas"
+            },
+            {
+                "type": "span",
+                "html": "pkill -f \"python app.py\""
+            },
+            {
+                "type": "span",
+                "html": "sleep 1"
+            },
+            {
+                "type": "h1",
+                "html": "2. Entrar a la carpeta y lanzar el servidor en segundo plano"
+            },
+            {
+                "type": "span",
+                "html": "cd ~/WebMusica"
+            },
+            {
+                "type": "span",
+                "html": "python app.py > /dev/null 2>&1 &"
+            },
+            {
+                "type": "h1",
+                "html": "3. Esperar a que arranque y abrir el navegador"
+            },
+            {
+                "type": "span",
+                "html": "sleep 2"
+            },
+            {
+                "type": "span",
+                "html": "termux-open-url http://localhost:5000"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "span",
+                "html": "Guarda y cierra (Ctrl+O, Enter, Ctrl+X)."
+            },
+            {
+                "type": "h3",
+                "html": "PASO 4: Darle permisos de ejecución"
+            },
+            {
+                "type": "span",
+                "html": "Para que Android te permita ejecutar este archivo con un toque, tienes que darle permisos de ejecución en Termux:"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "span",
+                "html": "chmod +x ~/.shortcuts/Lanzar_TubeDJ.sh"
+            },
+            {
+                "type": "p",
+                "cssClass": "codigo-agrupado",
+                "html": ""
+            },
+            {
+                "type": "h3",
+                "html": "PASO 5: Colocar el botón en tu Pantalla de Inicio"
+            },
+            {
+                "type": "span",
+                "html": "Ahora ya puedes salir de Termux e ir a la pantalla principal de tu móvil (el escritorio de Android):"
+            },
+            {
+                "type": "list",
+                "listType": "ol",
+                "items": [
+                    "Mantén el dedo pulsado en un espacio vacío de la pantalla."
+                ]
+            },
+            {
+                "type": "list",
+                "listType": "ol",
+                "items": [
+                    "Selecciona la opción de **Widgets**."
+                ]
+            },
+            {
+                "type": "list",
+                "listType": "ol",
+                "items": [
+                    "Busca en la lista los widgets de **Termux:Widget**. Verás que hay dos opciones: uno que pone un menú de lista, y otro que pone un **\"Shortcut\"** (Acceso directo individual)."
+                ]
+            },
+            {
+                "type": "list",
+                "listType": "ol",
+                "items": [
+                    "Arrastra el **Termux:Shortcut** a tu pantalla."
+                ]
+            },
+            {
+                "type": "list",
+                "listType": "ol",
+                "items": [
+                    "Se abrirá una pequeña lista con los archivos que tienes en la carpeta que creamos. Selecciona **Lanzar_TubeDJ.sh**."
+                ]
+            },
+            {
+                "type": "span",
+                "html": "¡Ya lo tienes! Ahora tienes un icono en tu escritorio. Cuando vayas en el coche o quieras poner música, solo tienes que tocar ese icono. Se abrirá una mini-ventana negra por un segundo, encenderá tu servidor de Python en las sombras y te lanzará Chrome directo a tu aplicación."
+            }
+        ]
+    }
+]
