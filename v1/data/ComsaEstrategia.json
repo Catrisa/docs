@@ -1,0 +1,138 @@
+[
+    {
+        "type": "div",
+        "cssClass": "node-block user-div node-block",
+        "content": [
+            {
+                "type": "h1",
+                "html": "Estrategia de Candidatura: Gestor de Proyectos COMSA (Guadalajara)",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "h2",
+                "html": "1. Nueva \"Carta de Presentación\" (Párrafo Inicial del CV)",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "p",
+                "html": "Para alinearte con la banda salarial alta, el extracto inicial de tu CV debe redactarse con un enfoque puramente directivo y de transferencia de habilidades hacia COMSA:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "\"Ingeniero Técnico Industrial con más de 25 años de trayectoria en oficina técnica, dirección de obras de gran envergadura (hasta 2,2M €) y gestión operativa de talleres de maquinaria pesada. Especialista en la optimización de flujos de trabajo, control presupuestario estricto (Presto) y coordinación de subcontratas en infraestructuras singulares (como los túneles de la M-30). Aporto un perfil técnico integral con Máster Oficial en Prevención de Riesgos Laborales (PRL) y liderazgo consolidado de equipos (más de 13 años). Ubicado en Guadalajara, busco aportar solvencia operativa inmediata, rigor normativo y excelencia en la gestión del taller ferroviario de COMSA.\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "h2",
+                "html": "2. Tus 4 Argumentos Clave de Negociación",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<span class=\"item-text\">\n   <strong>Experiencia en Infraestructuras Críticas:</strong> Tu intervención en los túneles de la M-30 y el Hangar de Iberia demuestra que sabes trabajar bajo las severas exigencias estructurales y de seguridad que COMSA requiere en sus proyectos ferroviarios.</span>",
+                    "<span class=\"item-text\">\n   <strong>Gestión de Talleres y Homologaciones Oficiales:</strong> Como ex Jefe de Taller en Craneserv, lograste la acreditación de fabricante de 2ª fase ante el Ministerio de Industria. Esto demuestra tu capacidad para gestionar auditorías de calidad técnica y legalizaciones, un día a día crítico en el mantenimiento ferroviario.</span>",
+                    "<span class=\"item-text\">\n   <strong>Especialista en Seguridad (Máster PRL):</strong> El sector ferroviario es inflexible con el riesgo laboral. Tu formación de 600 horas en Seguridad en el Trabajo te posiciona no solo como un gestor de costes, sino como un garante de la seguridad a pie de obra.</span>",
+                    "<span class=\"item-text\">\n   <strong>Dominio del Contenido y Continente:</strong> Un taller ferroviario requiere mantener la nave física (tu experiencia en naves industriales y cerramientos) y la maquinaria pesada/sistemas de elevación (tu experiencia con grúas hidráulicas y SolidEdge). Cubres el 100% de las necesidades operativas del centro de Guadalajara.</span>"
+                ],
+                "cssClass": "node-block"
+            },
+            {
+                "type": "h2",
+                "html": "3. Enfoque para la Entrevista de Trabajo",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "p",
+                "html": "Cuando te pregunten por la falta de experiencia ferroviaria, tu discurso debe ser:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "em",
+                "html": "\"No he gestionado material rodante directamente, pero domino el 90% de las operaciones de su centro en Guadalajara: sé legalizar y mantener la infraestructura de una gran nave, controlo la mecánica e hidráulica de maquinaria pesada, y poseo un Máster en PRL para asegurar el cumplimiento normativo. La tecnología ferroviaria específica se asimila con rapidez; la capacidad de dirigir equipos durante 13 años y salvar presupuestos millonarios es lo que aporto desde el primer día.\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Aquí tienes las preguntas técnicas más difíciles que te planteará el equipo técnico de COMSA. Estarán diseñadas para poner a prueba tu adaptabilidad y comprobar si tus 25 años en la industria mitigan la falta de experiencia ferroviaria.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "🛠️ Bloque 1: Gestión de Taller y Maquinaria Pesada",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La pregunta:</span> \"¿Cómo adaptarías tu experiencia en grúas hidráulicas al mantenimiento de maquinaria de infraestructura ferroviaria (como dresinas o bateadoras)?\"</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La trampa:</span> Buscan saber si entiendes la complejidad mecánica del sector ferroviario.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">Tu respuesta clave:</span> Enfatizar que la hidráulica de alta presión, la fatiga de materiales y los sistemas de elevación comparten los mismos principios físicos. Destaca tu logro en Craneserv con el Ministerio de Industria.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La pregunta:</span> \"En el taller de Guadalajara gestionamos flujos de materiales pesados. ¿Cómo optimizarías el espacio para evitar cuellos de botella?\"</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La trampa:</span> Quieren ver tu capacidad de organización operativa.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">Tu respuesta clave:</span> Menciona tu experiencia diseñando <em style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" class=\"eujQNb\">layouts</em> industriales con AutoCAD. Explica cómo aplicas principios de ingeniería industrial para reducir tiempos de producción.</span></span>"
+                ],
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "⚠️ Bloque 2: Seguridad y Riesgos Laborales (Tu punto fuerte)",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La pregunta:</span> \"El trabajo en talleres ferroviarios e infraestructura implica riesgos eléctricos severos (catenarias) y atropellos. ¿Cómo aplicarías tu perfil de PRL en un entorno que no dominas al 100%?\"</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La trampa:</span> Evalúan si tu Máster en PRL es solo teórico o sabes bajarlo a la realidad.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">Tu respuesta clave:</span> Defiende que la Coordinación de Actividades Empresariales (CAE) y el análisis de riesgos críticos son universales. Pon como ejemplo el soterramiento de la M-30 en Madrid.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La pregunta:</span> \"Si un operario senior del taller se niega a seguir un nuevo protocolo de seguridad argumentando que 'siempre se ha hecho así', ¿cómo lo gestionas?\"</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La trampa:</span> Mide tu liderazgo y resolución de conflictos.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">Tu respuesta clave:</span> Recordar tus 13 años liderando cuadrillas y personal de taller. Explicar que la seguridad ferroviaria es legalmente inflexible y que el liderazgo firme pero pedagógico es la única vía.</span></span>"
+                ],
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "📊 Bloque 3: Gestión Económica y Desviaciones (Presto)",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La pregunta:</span> \"COMSA trabaja con márgenes ajustados en obra pública. Si detectas un desvío presupuestario del 15% en una subcontrata a mitad de proyecto, ¿qué medidas tomas?\"</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La trampa:</span> Quieren verificar tu rigor financiero en proyectos grandes.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">Tu respuesta clave:</span> Explicar tu metodología con el software Presto para auditorías de mediciones. Detallar cómo renegocias alcances o buscas penalizaciones contractuales si el desvío es injustificado.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La pregunta:</span> \"Hemos tenido problemas con el cumplimiento de plazos de proveedores en la zona centro. ¿Cómo aseguras el suministro técnico para el taller?\"</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La trampa:</span> Evalúan tu red y tu capacidad comercial/negociadora.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">Tu respuesta clave:</span> Aludir a tus años como delegado comercial en Madrid y Guadalajara. Conoces perfectamente el tejido industrial local, los proveedores de la zona y sabes cómo presionar contractualmente.</span></span>"
+                ],
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "🚂 Bloque 4: La falta de experiencia sectorial",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La pregunta:</span> \"El puesto exige autonomía inmediata. ¿Cuánto tiempo estimas que necesitarás para entender la normativa ferroviaria y ser rentable para COMSA?\"</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">La trampa:</span> Buscan descartarte por requerir demasiada formación.</span></span>",
+                    "<span class=\"item-text\">\n   <span style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"iNqyIf\"><span style=\"font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" data-sfc-cp=\"\" class=\"rQesXe MPyX\">Tu respuesta clave:</span> <em style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" data-copy-service-computed-style=\"font-family:\" data-complete=\"true\" data-sfc-root=\"ep\" class=\"eujQNb\">\"Para gestionar el taller, controlar los costes y liderar el equipo: cero días, porque llevo 25 años haciéndolo. Para la normativa específica ferroviaria de la AESF: un mes, apoyándome en mi facilidad para asimilar regulaciones complejas gracias a mi formación en PRL\"</em>.</span></span>"
+                ],
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Si quieres, podemos simular una respuesta detallada para la pregunta que te parezca más peligrosa. ¿Cuál de estos bloques te genera más respeto de cara a la entrevista?",
+                "cssClass": "node-block"
+            }
+        ]
+    }
+]
