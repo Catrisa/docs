@@ -1,0 +1,3637 @@
+[
+  {
+    "type": "h2",
+    "html": "TEST",
+    "cssClass": "node-block"
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block user-div node-content editable text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+    "content": [
+      {
+        "type": "h1",
+        "html": "<br>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>8 \"Me gusta dedicar tiempo a analizar las posibles causas de los problemas antes de decidir cómo actuar.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Capacidad analítica.",
+          "Resolución de problemas.",
+          "Toma de decisiones."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un ingeniero debe basar sus decisiones en el análisis, no en la intuición."
+      },
+      {
+        "type": "h3",
+        "html": "9"
+      },
+      {
+        "type": "p",
+        "html": "<strong>\"Cuando aparecen problemas complejos suelo buscar varias alternativas antes de decidir.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Pensamiento crítico.",
+          "Flexibilidad.",
+          "Análisis de opciones."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "10"
+      },
+      {
+        "type": "p",
+        "html": "<strong>\"Me siento cómodo tomando decisiones aunque disponga de poca información.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Tolerancia a la incertidumbre.",
+          "Impulsividad vs. prudencia."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>B</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un ingeniero debe intentar obtener la información necesaria antes de decidir. Un \"A\" podría indicar excesiva indecisión; un \"B\" refleja prudencia."
+      },
+      {
+        "type": "h3",
+        "html": "11"
+      },
+      {
+        "type": "p",
+        "html": "<strong>\"Cuando una tarea está bien definida prefiero seguir el procedimiento establecido.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Disciplina.",
+          "Cumplimiento de procedimientos.",
+          "Fiabilidad."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>C</strong>"
+      },
+      {
+        "type": "p",
+        "html": "Seguir procedimientos es positivo, pero un ingeniero también debe saber mejorarlos cuando sea necesario."
+      },
+      {
+        "type": "h3",
+        "html": "12"
+      },
+      {
+        "type": "p",
+        "html": "<strong>\"Disfruto buscando maneras más eficientes de hacer las cosas.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Mejora continua.",
+          "Innovación.",
+          "Optimización."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D</strong>"
+      },
+      {
+        "type": "p",
+        "html": "Es una de las competencias más valoradas en ingeniería."
+      },
+      {
+        "type": "h3",
+        "html": "13"
+      },
+      {
+        "type": "p",
+        "html": "<strong>\"Cuando detecto un error procuro averiguar por qué se ha producido.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Análisis de causa raíz.",
+          "Calidad.",
+          "Aprendizaje."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D</strong>"
+      },
+      {
+        "type": "p",
+        "html": "Muy importante."
+      },
+      {
+        "type": "h3",
+        "html": "14"
+      },
+      {
+        "type": "p",
+        "html": "<strong>\"Prefiero terminar rápido una tarea aunque el resultado no sea perfecto.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Calidad frente a rapidez."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>A</strong>"
+      },
+      {
+        "type": "p",
+        "html": "Muy importante en ingeniería."
+      },
+      {
+        "type": "h3",
+        "html": "15"
+      },
+      {
+        "type": "p",
+        "html": "<strong>\"Me resulta fácil explicar cuestiones técnicas a personas que no son especialistas.\"</strong>"
+      },
+      {
+        "type": "h3",
+        "html": "Evalúa"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "Comunicación.",
+          "Capacidad de síntesis.",
+          "Influencia técnica."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Respuesta recomendada"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>C</strong>"
+      },
+      {
+        "type": "p",
+        "html": "Un \"D\" puede parecer excesivamente seguro. Un \"C\" transmite una buena habilidad de comunicación."
+      },
+      {
+        "type": "h2",
+        "html": "Perfil que estamos construyendo"
+      },
+      {
+        "type": "p",
+        "html": "Hasta ahora proyectas una persona:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "✔ Muy analítica.",
+          "✔ Metódica.",
+          "✔ Orientada a la calidad.",
+          "✔ Innovadora.",
+          "✔ Prudente al tomar decisiones.",
+          "✔ Capaz de comunicar aspectos técnicos.",
+          "✔ En mejora continua."
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Ese es un perfil muy sólido para un <strong>Ingeniero Técnico Industrial</strong>."
+      },
+      {
+        "type": "h3",
+        "html": "Un consejo importante"
+      },
+      {
+        "type": "p",
+        "html": "En estos test suele aparecer la misma idea formulada de varias maneras. Por ejemplo:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "\"Planifico antes de actuar.\"",
+          "\"No me gusta improvisar.\"",
+          "\"Analizo las alternativas.\"",
+          "\"Organizo mi trabajo.\""
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Todas ellas deberían mantener una respuesta coherente. Si contestas <strong>D</strong> a una y <strong>A</strong> a otra equivalente, el sistema puede detectar una inconsistencia."
+      },
+      {
+        "type": "p",
+        "html": "Seguimos con el siguiente bloque cuando quieras."
+      }
+    ]
+  },
+  {
+    "type": "span",
+    "html": "Extraer las más de 200 preguntas del archivo y generar una tabla completa con la respuesta recomendada para cada una",
+    "cssClass": "node-block user-div node-content editable text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-(--sticky-padding-top) text-base my-auto mx-auto pt-12 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden items-end rtl:items-start user-message-bubble-color corner-superellipse/0.98 relative min-w-0 overflow-hidden rounded-[22px] px-4 py-2.5 leading-6 max-w-(--user-chat-width,70%) max-w-full min-w-0 [overflow-wrap:anywhere] whitespace-pre-wrap"
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block user-div node-content editable text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+    "content": [
+      {
+        "type": "p",
+        "html": "89.\nMe gusta probar a hacer una misma cosa de diferentes formas para descubrir soluciones nuevas que resulten válidas."
+      },
+      {
+        "type": "div",
+        "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+        "content": [
+          {
+            "type": "p",
+            "html": "La afirmación es:"
+          },
+          {
+            "type": "blockquote",
+            "html": "<p><strong>89. \"Me gusta probar a hacer una misma cosa de diferentes formas para descubrir soluciones nuevas que resulten válidas.\"</strong></p>"
+          },
+          {
+            "type": "h3",
+            "html": "¿Qué evalúa?"
+          },
+          {
+            "type": "list",
+            "listType": "ul",
+            "items": [
+              "Creatividad aplicada.",
+              "Innovación.",
+              "Mejora continua.",
+              "Resolución de problemas.",
+              "Curiosidad técnica."
+            ]
+          },
+          {
+            "type": "h3",
+            "html": "Cómo la interpreta el test"
+          },
+          {
+            "type": "p",
+            "html": "Es una <strong>afirmación positiva</strong>, pero con un matiz importante: habla de <strong>experimentar para encontrar soluciones mejores</strong>, no de cambiar los métodos sin motivo."
+          },
+          {
+            "type": "p",
+            "html": "Para un <strong>Ingeniero Técnico Industrial</strong> esta competencia suele ser muy valorada porque implica:"
+          },
+          {
+            "type": "list",
+            "listType": "ul",
+            "items": [
+              "optimizar procesos;",
+              "reducir costes;",
+              "mejorar la calidad;",
+              "aumentar la eficiencia;",
+              "encontrar soluciones técnicas alternativas."
+            ]
+          },
+          {
+            "type": "h3",
+            "html": "Respuesta recomendada"
+          },
+          {
+            "type": "p",
+            "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+          },
+          {
+            "type": "h3",
+            "html": "¿Por qué?"
+          },
+          {
+            "type": "p",
+            "html": "Un buen ingeniero:"
+          },
+          {
+            "type": "list",
+            "listType": "ul",
+            "items": [
+              "no se conforma con la primera solución;",
+              "analiza alternativas;",
+              "prueba mejoras cuando tienen sentido técnico;",
+              "aprende de la experiencia."
+            ]
+          },
+          {
+            "type": "p",
+            "html": "Esta respuesta es además coherente con otras que ya has contestado:"
+          },
+          {
+            "type": "list",
+            "listType": "ul",
+            "items": [
+              "✔ \"Me gusta introducir mejoras.\" → <strong>D</strong>",
+              "✔ \"Disfruto realizando distintos tipos de actividades.\" → <strong>D</strong>",
+              "✔ \"Intento anticiparme a los cambios.\" → <strong>D</strong>",
+              "✔ \"Cambio la manera habitual de hacer las cosas cuando la situación lo exige.\" → <strong>D</strong>"
+            ]
+          },
+          {
+            "type": "p",
+            "html": "No transmite impulsividad, sino una actitud de <strong>mejora continua</strong>, que es muy apreciada en ingeniería."
+          },
+          {
+            "type": "h3",
+            "html": "Resumen"
+          },
+          {
+            "type": "table",
+            "headers": [
+              "Respuesta",
+              "Interpretación"
+            ],
+            "rows": [
+              {
+                "columns": [
+                  "A",
+                  "Prefieres hacer siempre las cosas igual."
+                ]
+              },
+              {
+                "columns": [
+                  "B",
+                  "Poca inclinación a explorar alternativas."
+                ]
+              },
+              {
+                "columns": [
+                  "C",
+                  "Buscas mejoras ocasionalmente."
+                ]
+              },
+              {
+                "columns": [
+                  "<strong>D</strong>",
+                  "✅ <strong>Muy recomendable para un Ingeniero Técnico Industrial.</strong>"
+                ]
+              }
+            ],
+            "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+          },
+          {
+            "type": "p",
+            "html": "<strong data-is-last-node=\"\">Respuesta recomendada: 🟢 D — Totalmente de acuerdo.</strong>"
+          },
+          {
+            "type": "p",
+            "html": "<strong data-is-last-node=\"\"><br></strong>"
+          },
+          {
+            "type": "p",
+            "html": "<strong data-is-last-node=\"\"></strong>"
+          },
+          {
+            "type": "div",
+            "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+            "content": [
+              {
+                "type": "p",
+                "html": "La afirmación es:"
+              },
+              {
+                "type": "blockquote",
+                "html": "<p><strong>95. \"Cuando estoy muy convencido de lo que se puede hacer para mejorar la forma de hacer las cosas, lo propongo a los demás aunque no me lo requieran directamente.\"</strong></p>"
+              },
+              {
+                "type": "h2",
+                "html": "¿Qué evalúa?"
+              },
+              {
+                "type": "p",
+                "html": "Esta pregunta mide varias competencias muy importantes:"
+              },
+              {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                  "Iniciativa.",
+                  "Proactividad.",
+                  "Mejora continua.",
+                  "Capacidad para influir.",
+                  "Compromiso con la organización."
+                ]
+              },
+              {
+                "type": "p",
+                "html": "No evalúa si impones tus ideas, sino si <strong>las propones</strong> cuando crees que pueden aportar valor."
+              },
+              {
+                "type": "h2",
+                "html": "Para un Ingeniero Técnico Industrial"
+              },
+              {
+                "type": "p",
+                "html": "Esta es una competencia <strong>muy valorada</strong>."
+              },
+              {
+                "type": "p",
+                "html": "Las empresas buscan ingenieros que:"
+              },
+              {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                  "detecten oportunidades de mejora;",
+                  "propongan soluciones;",
+                  "no se limiten a ejecutar instrucciones;",
+                  "contribuyan a optimizar procesos, calidad y costes."
+                ]
+              },
+              {
+                "type": "p",
+                "html": "Un ingeniero que nunca propone mejoras suele ser percibido como alguien pasivo."
+              },
+              {
+                "type": "h2",
+                "html": "Respuesta recomendada"
+              },
+              {
+                "type": "p",
+                "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+              },
+              {
+                "type": "h2",
+                "html": "¿Por qué?"
+              },
+              {
+                "type": "p",
+                "html": "La frase está muy bien redactada:"
+              },
+              {
+                "type": "blockquote",
+                "html": "<p>\"...<strong>lo propongo</strong>...\"</p>"
+              },
+              {
+                "type": "p",
+                "html": "No dice que obligues a los demás ni que siempre tengas razón. Solo indica que compartes una propuesta cuando estás convencido de que puede mejorar el trabajo."
+              },
+              {
+                "type": "p",
+                "html": "Eso refleja:"
+              },
+              {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                  "iniciativa;",
+                  "confianza profesional;",
+                  "orientación a la mejora continua;",
+                  "colaboración."
+                ]
+              },
+              {
+                "type": "h2",
+                "html": "Resumen"
+              },
+              {
+                "type": "table",
+                "headers": [
+                  "Respuesta",
+                  "Interpretación"
+                ],
+                "rows": [
+                  {
+                    "columns": [
+                      "A",
+                      "Muy pasivo."
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "B",
+                      "Solo propones mejoras si te las piden."
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "C",
+                      "A veces aportas ideas."
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "<strong>D</strong>",
+                      "✅ <strong>Perfil muy valorado en ingeniería.</strong>"
+                    ]
+                  }
+                ],
+                "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+              },
+              {
+                "type": "h2",
+                "html": "Coherencia con el perfil que llevamos"
+              },
+              {
+                "type": "p",
+                "html": "Hasta ahora el patrón es excelente para un <strong>Ingeniero Técnico Industrial</strong>:"
+              },
+              {
+                "type": "table",
+                "headers": [
+                  "Competencia",
+                  "Respuesta"
+                ],
+                "rows": [
+                  {
+                    "columns": [
+                      "Aprendizaje",
+                      "<strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Innovación",
+                      "<strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Calidad",
+                      "<strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Organización",
+                      "<strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Proactividad",
+                      "<strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Proponer mejoras",
+                      "<strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Resolver problemas",
+                      "<strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Adaptación al cambio",
+                      "<strong>B</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Estrés",
+                      "<strong>B</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Incertidumbre",
+                      "<strong>B</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Impulsividad",
+                      "<strong>B</strong>"
+                    ]
+                  },
+                  {
+                    "columns": [
+                      "Influencia",
+                      "<strong>C/D</strong> según el contexto"
+                    ]
+                  }
+                ],
+                "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+              },
+              {
+                "type": "p",
+                "html": "📌 <strong>Mi recomendación es responder: 🟢 D — Totalmente de acuerdo.</strong>"
+              },
+              {
+                "type": "p",
+                "html": "Es una de las afirmaciones que mejor diferencian a un ingeniero con iniciativa de uno que se limita a cumplir instrucciones."
+              },
+              {
+                "type": "p",
+                "html": "<br>"
+              },
+              {
+                "type": "div",
+                "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+                "content": [
+                  {
+                    "type": "p",
+                    "html": "La afirmación es:"
+                  },
+                  {
+                    "type": "blockquote",
+                    "html": "<p><strong>100. \"Pienso que siempre se puede mejorar la forma de hacer las cosas para conseguir mejores resultados y emprendo mejoras concretas para hacerlo realidad.\"</strong></p>"
+                  },
+                  {
+                    "type": "h2",
+                    "html": "¿Qué evalúa?"
+                  },
+                  {
+                    "type": "p",
+                    "html": "Esta es una de las preguntas más importantes del bloque. Evalúa:"
+                  },
+                  {
+                    "type": "list",
+                    "listType": "ul",
+                    "items": [
+                      "Mejora continua.",
+                      "Iniciativa.",
+                      "Innovación aplicada.",
+                      "Orientación a resultados.",
+                      "Capacidad para convertir las ideas en acciones."
+                    ]
+                  },
+                  {
+                    "type": "p",
+                    "html": "Fíjate en que no solo pregunta si <strong>piensas</strong> que se puede mejorar, sino también si <strong>emprendes mejoras concretas</strong>."
+                  },
+                  {
+                    "type": "h2",
+                    "html": "Para un Ingeniero Técnico Industrial"
+                  },
+                  {
+                    "type": "p",
+                    "html": "Esta competencia es fundamental. Las empresas buscan ingenieros que:"
+                  },
+                  {
+                    "type": "list",
+                    "listType": "ul",
+                    "items": [
+                      "optimicen procesos;",
+                      "reduzcan costes;",
+                      "mejoren la calidad;",
+                      "eliminen ineficiencias;",
+                      "propongan e implanten mejoras."
+                    ]
+                  },
+                  {
+                    "type": "p",
+                    "html": "Es una filosofía muy alineada con metodologías como <strong>Lean Manufacturing, Kaizen, Six Sigma</strong> o la mejora continua en general."
+                  },
+                  {
+                    "type": "h2",
+                    "html": "Respuesta recomendada"
+                  },
+                  {
+                    "type": "p",
+                    "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+                  },
+                  {
+                    "type": "h2",
+                    "html": "¿Por qué?"
+                  },
+                  {
+                    "type": "p",
+                    "html": "Es completamente coherente con las respuestas anteriores:"
+                  },
+                  {
+                    "type": "list",
+                    "listType": "ul",
+                    "items": [
+                      "Introducir mejoras → <strong>D</strong>",
+                      "Proponer mejoras → <strong>D</strong>",
+                      "Buscar soluciones nuevas → <strong>D</strong>",
+                      "Anticiparse a los cambios → <strong>D</strong>",
+                      "Actuar para resolver problemas → <strong>D</strong>"
+                    ]
+                  },
+                  {
+                    "type": "p",
+                    "html": "Esta pregunta prácticamente resume todas esas competencias."
+                  },
+                  {
+                    "type": "h2",
+                    "html": "Resumen"
+                  },
+                  {
+                    "type": "table",
+                    "headers": [
+                      "Respuesta",
+                      "Interpretación"
+                    ],
+                    "rows": [
+                      {
+                        "columns": [
+                          "A",
+                          "No buscas mejorar los procesos."
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "B",
+                          "Solo mejoras si te lo piden."
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "C",
+                          "Propones mejoras ocasionalmente."
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "<strong>D</strong>",
+                          "✅ <strong>Excelente para un Ingeniero Técnico Industrial.</strong>"
+                        ]
+                      }
+                    ],
+                    "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                  },
+                  {
+                    "type": "h1",
+                    "html": "Resumen del bloque 84–100"
+                  },
+                  {
+                    "type": "table",
+                    "headers": [
+                      "Nº",
+                      "Respuesta recomendada"
+                    ],
+                    "rows": [
+                      {
+                        "columns": [
+                          "84",
+                          "<strong>B</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "85",
+                          "<strong>B</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "86",
+                          "<strong>B</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "87",
+                          "<strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "88",
+                          "<strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "89",
+                          "<strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "91",
+                          "<strong>B</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "92",
+                          "<strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "93",
+                          "<strong>B</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "94",
+                          "<strong>C</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "95",
+                          "<strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "96",
+                          "<strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "98",
+                          "<strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "99",
+                          "<strong>B</strong>"
+                        ]
+                      },
+                      {
+                        "columns": [
+                          "100",
+                          "<strong>D</strong>"
+                        ]
+                      }
+                    ],
+                    "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                  },
+                  {
+                    "type": "h3",
+                    "html": "Valoración del perfil"
+                  },
+                  {
+                    "type": "p",
+                    "html": "Con este patrón estás proyectando un perfil muy consistente para un <strong>Ingeniero Técnico Industrial</strong>:"
+                  },
+                  {
+                    "type": "list",
+                    "listType": "ul",
+                    "items": [
+                      "✅ Orientado a la mejora continua.",
+                      "✅ Analítico y metódico.",
+                      "✅ Proactivo y resolutivo.",
+                      "✅ Abierto al cambio cuando aporta valor.",
+                      "✅ Capaz de actuar bajo presión sin ser impulsivo.",
+                      "✅ Con iniciativa para proponer e implementar mejoras.",
+                      "✅ Orientado a la calidad y a los resultados."
+                    ]
+                  },
+                  {
+                    "type": "p",
+                    "html": "Es un perfil que suele encajar bien con puestos de ingeniería en producción, mantenimiento, proyectos, calidad u oficina técnica."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "html": "<br>"
+              },
+              {
+                "type": "div",
+                "cssClass": "qMYqUG_convSearchResultHighlightRoot",
+                "content": [
+                  {
+                    "type": "div",
+                    "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+                    "content": [
+                      {
+                        "type": "p",
+                        "html": "La afirmación es:"
+                      },
+                      {
+                        "type": "blockquote",
+                        "html": "<p><strong>117. \"Me aseguro de que la información que proporciono al cliente sea útil y relevante para su situación.\"</strong></p>"
+                      },
+                      {
+                        "type": "h2",
+                        "html": "¿Qué evalúa?"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Esta pregunta mide:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "Orientación al cliente.",
+                          "Comunicación.",
+                          "Capacidad de adaptación.",
+                          "Claridad al transmitir información.",
+                          "Profesionalidad."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "No basta con dar mucha información; se valora que sea <strong>la adecuada para las necesidades concretas del cliente</strong>."
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Para un Ingeniero Técnico Industrial"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Es una competencia muy importante porque un ingeniero debe ser capaz de:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "explicar soluciones técnicas de forma comprensible;",
+                          "proporcionar la información necesaria para la toma de decisiones;",
+                          "evitar información confusa o irrelevante;",
+                          "adaptar el nivel de detalle al interlocutor (cliente, operario, dirección, proveedor, etc.)."
+                        ]
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Respuesta recomendada"
+                      },
+                      {
+                        "type": "p",
+                        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+                      },
+                      {
+                        "type": "h3",
+                        "html": "¿Por qué?"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Esta respuesta refleja un comportamiento muy profesional:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "verificas que el cliente entiende la información;",
+                          "adaptas tus explicaciones a su situación;",
+                          "aportas valor en lugar de limitarte a transmitir datos."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "Además, es totalmente coherente con las preguntas anteriores:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "<strong>112</strong> → Calidad del servicio → <strong>D</strong>",
+                          "<strong>113</strong> → Entiendo los problemas del cliente → <strong>D</strong>",
+                          "<strong>116</strong> → Escucho las necesidades del cliente → <strong>D</strong>",
+                          "<strong>117</strong> → Proporciono información útil y relevante → <strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Resumen"
+                      },
+                      {
+                        "type": "table",
+                        "headers": [
+                          "Respuesta",
+                          "Interpretación"
+                        ],
+                        "rows": [
+                          {
+                            "columns": [
+                              "A",
+                              "No adaptas la información al cliente."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "B",
+                              "Lo haces de forma limitada."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "C",
+                              "Sueles ofrecer información útil."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "<strong>D</strong>",
+                              "✅ <strong>Muy recomendable para un Ingeniero Técnico Industrial.</strong>"
+                            ]
+                          }
+                        ],
+                        "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                      },
+                      {
+                        "type": "h3",
+                        "html": "Bloque 112–117"
+                      },
+                      {
+                        "type": "table",
+                        "headers": [
+                          "Nº",
+                          "Competencia",
+                          "Respuesta"
+                        ],
+                        "rows": [
+                          {
+                            "columns": [
+                              "112",
+                              "Calidad del servicio",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "113",
+                              "Comprender al cliente",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "114",
+                              "Compromiso con el cliente",
+                              "<strong>C</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "115",
+                              "Anticipar necesidades",
+                              "<strong>C</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "116",
+                              "Escucha activa",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "<strong>117</strong>",
+                              "Información útil y relevante",
+                              "<strong>D</strong>"
+                            ]
+                          }
+                        ],
+                        "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Este patrón transmite un perfil de <strong>ingeniero con una excelente orientación al cliente</strong>, que sabe escuchar, comprender las necesidades, comunicar de forma eficaz y ofrecer soluciones técnicas de calidad, manteniendo al mismo tiempo respuestas creíbles y consistentes."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "span",
+                    "html": "118.\nTrato de resolver los problemas del cliente de manera que le resulte provechosa.",
+                    "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-(--sticky-padding-top) text-base my-auto mx-auto pt-12 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden items-end rtl:items-start user-message-bubble-color corner-superellipse/0.98 relative min-w-0 overflow-hidden rounded-[22px] px-4 py-2.5 leading-6 max-w-(--user-chat-width,70%) max-w-full min-w-0 [overflow-wrap:anywhere] whitespace-pre-wrap"
+                  },
+                  {
+                    "type": "div",
+                    "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+                    "content": [
+                      {
+                        "type": "p",
+                        "html": "La afirmación es:"
+                      },
+                      {
+                        "type": "blockquote",
+                        "html": "<p><strong>118. \"Trato de resolver los problemas del cliente de manera que le resulte provechosa.\"</strong></p>"
+                      },
+                      {
+                        "type": "h2",
+                        "html": "¿Qué evalúa?"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Esta pregunta mide:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "Orientación al cliente.",
+                          "Resolución de problemas.",
+                          "Orientación a resultados.",
+                          "Empatía profesional.",
+                          "Creación de valor."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "No pregunta si simplemente resuelves el problema, sino si buscas una solución que <strong>aporte el mayor beneficio posible al cliente</strong>."
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Para un Ingeniero Técnico Industrial"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Esta es una competencia muy valorada. Un buen ingeniero intenta que sus soluciones:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "resuelvan el problema técnico;",
+                          "sean seguras;",
+                          "sean eficientes;",
+                          "reduzcan costes cuando sea posible;",
+                          "aporten valor al cliente."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "Por ejemplo, no solo reparar una avería, sino proponer una solución que evite que vuelva a producirse."
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Respuesta recomendada"
+                      },
+                      {
+                        "type": "p",
+                        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+                      },
+                      {
+                        "type": "h3",
+                        "html": "¿Por qué?"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Esta afirmación refleja exactamente el enfoque que buscan muchas empresas:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "comprender el problema;",
+                          "analizar alternativas;",
+                          "elegir la solución que mejor beneficie al cliente y a la organización."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "Es totalmente coherente con las respuestas anteriores:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "<strong>112</strong> → Me preocupo por la calidad del servicio → <strong>D</strong>",
+                          "<strong>113</strong> → Entiendo los problemas del cliente → <strong>D</strong>",
+                          "<strong>116</strong> → Escucho las necesidades del cliente → <strong>D</strong>",
+                          "<strong>117</strong> → Proporciono información útil → <strong>D</strong>",
+                          "<strong>118</strong> → Busco la solución más provechosa para el cliente → <strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Resumen"
+                      },
+                      {
+                        "type": "table",
+                        "headers": [
+                          "Respuesta",
+                          "Interpretación"
+                        ],
+                        "rows": [
+                          {
+                            "columns": [
+                              "A",
+                              "Te limitas a resolver el problema sin pensar en el cliente."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "B",
+                              "El beneficio para el cliente no es una prioridad."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "C",
+                              "Sueles buscar soluciones beneficiosas."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "<strong>D</strong>",
+                              "✅ <strong>Muy recomendable para un Ingeniero Técnico Industrial.</strong>"
+                            ]
+                          }
+                        ],
+                        "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Bloque 112–118"
+                      },
+                      {
+                        "type": "table",
+                        "headers": [
+                          "Nº",
+                          "Competencia",
+                          "Respuesta"
+                        ],
+                        "rows": [
+                          {
+                            "columns": [
+                              "112",
+                              "Calidad del servicio",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "113",
+                              "Comprender al cliente",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "114",
+                              "Compromiso con el cliente",
+                              "<strong>C</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "115",
+                              "Anticipar necesidades",
+                              "<strong>C</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "116",
+                              "Escucha activa",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "117",
+                              "Comunicación útil",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "<strong>118</strong>",
+                              "Resolver problemas aportando valor",
+                              "<strong>D</strong>"
+                            ]
+                          }
+                        ],
+                        "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Este conjunto proyecta un perfil muy sólido para un <strong>Ingeniero Técnico Industrial</strong>: técnicamente competente, orientado al cliente, resolutivo y centrado en aportar soluciones eficaces y de valor."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "span",
+                    "html": "119.\nDisfruto buscando maneras de mejorar la experiencia del cliente.",
+                    "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-(--sticky-padding-top) text-base my-auto mx-auto pt-12 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden items-end rtl:items-start user-message-bubble-color corner-superellipse/0.98 relative min-w-0 overflow-hidden rounded-[22px] px-4 py-2.5 leading-6 max-w-(--user-chat-width,70%) max-w-full min-w-0 [overflow-wrap:anywhere] whitespace-pre-wrap"
+                  },
+                  {
+                    "type": "div",
+                    "cssClass": "text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))] text-base my-auto mx-auto pb-15 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin) [--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn flex max-w-full flex-col gap-4 grow min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1 flex w-full flex-col gap-1 empty:hidden markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling",
+                    "content": [
+                      {
+                        "type": "p",
+                        "html": "La afirmación es:"
+                      },
+                      {
+                        "type": "blockquote",
+                        "html": "<p><strong>119. \"Disfruto buscando maneras de mejorar la experiencia del cliente.\"</strong></p>"
+                      },
+                      {
+                        "type": "h2",
+                        "html": "¿Qué evalúa?"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Esta pregunta mide:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "Orientación al cliente.",
+                          "Mejora continua.",
+                          "Proactividad.",
+                          "Innovación.",
+                          "Interés por aportar valor."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "No se refiere solo a resolver incidencias, sino a buscar activamente formas de que el cliente tenga una mejor experiencia con el servicio o producto."
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Para un Ingeniero Técnico Industrial"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Aunque la expresión \"experiencia del cliente\" suele asociarse al ámbito comercial, en ingeniería significa, por ejemplo:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "simplificar una instalación;",
+                          "hacer un equipo más fiable;",
+                          "reducir tiempos de parada;",
+                          "facilitar el mantenimiento;",
+                          "mejorar la documentación técnica;",
+                          "ofrecer soluciones más eficientes y fáciles de utilizar."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "Son aspectos muy valorados en ingeniería de proyectos, mantenimiento, calidad y oficina técnica."
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Respuesta recomendada"
+                      },
+                      {
+                        "type": "p",
+                        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+                      },
+                      {
+                        "type": "h3",
+                        "html": "¿Por qué?"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Esta respuesta refleja que:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "no te limitas a cumplir con lo mínimo;",
+                          "buscas mejorar continuamente;",
+                          "piensas en el impacto de tu trabajo sobre el cliente;",
+                          "aportas valor añadido."
+                        ]
+                      },
+                      {
+                        "type": "p",
+                        "html": "Es totalmente coherente con las respuestas anteriores:"
+                      },
+                      {
+                        "type": "list",
+                        "listType": "ul",
+                        "items": [
+                          "<strong>100</strong> → Emprendo mejoras concretas → <strong>D</strong>",
+                          "<strong>112</strong> → Me preocupo por la calidad del servicio → <strong>D</strong>",
+                          "<strong>113</strong> → Entiendo las necesidades del cliente → <strong>D</strong>",
+                          "<strong>116</strong> → Escucho al cliente → <strong>D</strong>",
+                          "<strong>118</strong> → Busco soluciones provechosas → <strong>D</strong>"
+                        ]
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Resumen"
+                      },
+                      {
+                        "type": "table",
+                        "headers": [
+                          "Respuesta",
+                          "Interpretación"
+                        ],
+                        "rows": [
+                          {
+                            "columns": [
+                              "A",
+                              "No te interesa mejorar la experiencia del cliente."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "B",
+                              "Lo haces solo cuando te lo piden."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "C",
+                              "Sueles buscar mejoras."
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "<strong>D</strong>",
+                              "✅ <strong>Muy recomendable para un Ingeniero Técnico Industrial.</strong>"
+                            ]
+                          }
+                        ],
+                        "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                      },
+                      {
+                        "type": "h2",
+                        "html": "Bloque 112–119"
+                      },
+                      {
+                        "type": "table",
+                        "headers": [
+                          "Nº",
+                          "Respuesta recomendada"
+                        ],
+                        "rows": [
+                          {
+                            "columns": [
+                              "112",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "113",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "114",
+                              "<strong>C</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "115",
+                              "<strong>C</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "116",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "117",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "118",
+                              "<strong>D</strong>"
+                            ]
+                          },
+                          {
+                            "columns": [
+                              "<strong>119</strong>",
+                              "<strong>D</strong>"
+                            ]
+                          }
+                        ],
+                        "cssClass": "TyagGW_tableContainer group TyagGW_tableWrapper flex flex-col-reverse w-fit"
+                      },
+                      {
+                        "type": "p",
+                        "html": "Este bloque transmite un perfil de <strong>ingeniero con una fuerte orientación al cliente</strong>, que no solo resuelve problemas, sino que busca comprender sus necesidades, aportar soluciones útiles y mejorar continuamente el servicio ofrecido. Ese perfil suele ser muy bien valorado en puestos de Ingeniería Técnica Industrial."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "html": "<br>"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block user-div node-content editable",
+    "content": [
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, esta pregunta suele evaluar la <strong>orientación al cliente</strong>, la capacidad de priorizar y el equilibrio entre la parte técnica y las necesidades del usuario."
+      },
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Prefiero enfocarme en otras áreas importantes de mi trabajo en lugar de atender a las necesidades del cliente.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Una respuesta favorable para un perfil de ingeniería suele ser:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>A — Totalmente en desacuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un ingeniero técnico no solo debe resolver aspectos técnicos, sino también entender las necesidades del cliente, interpretar sus requisitos, ofrecer soluciones adecuadas y mantener una buena comunicación. Decir que prefieres otras áreas antes que atender al cliente puede interpretarse como falta de orientación al servicio."
+      },
+      {
+        "type": "p",
+        "html": "En un contexto real, la idea correcta sería:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Las necesidades del cliente son importantes.</p>",
+          "<p>Deben compatibilizarse con criterios técnicos, normativa, costes y plazos.</p>",
+          "<p>No significa aceptar cualquier petición del cliente sin análisis.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Por tanto, para un test de competencias laborales:"
+      },
+      {
+        "type": "p",
+        "html": "<strong>121 → A (Totalmente en desacuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Me resulta fácil llegar a una solución que resulte satisfactoria para el cliente.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa principalmente:"
+      },
+      {
+        "type": "span",
+        "html": "* **Orientación al cliente**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de resolución de problemas**"
+      },
+      {
+        "type": "span",
+        "html": "* **Negociación y búsqueda de soluciones**"
+      },
+      {
+        "type": "span",
+        "html": "* **Adaptación a necesidades diferentes**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, una respuesta favorable sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe ser capaz de analizar problemas técnicos, proponer alternativas viables y encontrar soluciones que cumplan los requisitos del cliente dentro de las restricciones de normativa, presupuesto y plazo."
+      },
+      {
+        "type": "span",
+        "html": "Además, la frase no dice \"acepto siempre lo que quiere el cliente\", sino que habla de llegar a una solución satisfactoria, algo muy valorado en ingeniería."
+      },
+      {
+        "type": "span",
+        "html": "**122 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Cuando necesito resolver un problema identifico la causa que lo ha provocado antes de buscar soluciones.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad analítica**"
+      },
+      {
+        "type": "span",
+        "html": "* **Pensamiento lógico**"
+      },
+      {
+        "type": "span",
+        "html": "* **Resolución de problemas**"
+      },
+      {
+        "type": "span",
+        "html": "* **Metodología de trabajo**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En ingeniería es fundamental no limitarse a corregir síntomas, sino investigar la causa raíz del problema antes de plantear una solución. Este enfoque reduce errores repetitivos, mejora la calidad y permite tomar decisiones técnicas más fiables."
+      },
+      {
+        "type": "span",
+        "html": "Ejemplos:"
+      },
+      {
+        "type": "span",
+        "html": "* Una máquina falla → no solo cambiar una pieza, sino analizar por qué se ha producido el fallo."
+      },
+      {
+        "type": "span",
+        "html": "* Un consumo energético aumenta → investigar la causa antes de proponer medidas."
+      },
+      {
+        "type": "span",
+        "html": "* Un problema de producción → estudiar el origen antes de modificar procesos."
+      },
+      {
+        "type": "span",
+        "html": "**123 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Soy capaz de extraer de un problema soluciones valiosas para resolver problemas similares.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Aprendizaje a partir de la experiencia</strong></p>",
+          "<p><strong>Capacidad de análisis y mejora continua</strong></p>",
+          "<p><strong>Transferencia de conocimientos</strong></p>",
+          "<p><strong>Resolución eficiente de problemas</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un buen ingeniero no solo resuelve problemas puntuales, sino que aprende de ellos, documenta las causas y aplica ese conocimiento a situaciones futuras. Esta capacidad permite mejorar procesos, evitar errores repetidos y aumentar la eficiencia."
+      },
+      {
+        "type": "p",
+        "html": "Ejemplo:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Si se detecta una avería por una causa concreta, se puede establecer una mejora preventiva para evitar fallos similares en otros equipos.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "<strong>124 → D (Totalmente de acuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Cuando se presenta un problema que interfiere en mis objetivos consigo mantener la calma y analizarlo racionalmente.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Gestión del estrés</strong></p>",
+          "<p><strong>Autocontrol emocional</strong></p>",
+          "<p><strong>Capacidad de análisis bajo presión</strong></p>",
+          "<p><strong>Toma de decisiones</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> En ingeniería es habitual enfrentarse a problemas técnicos, cambios de planificación, averías o imprevistos. Mantener la calma permite analizar datos, valorar alternativas y tomar decisiones objetivas en lugar de reaccionar impulsivamente."
+      },
+      {
+        "type": "p",
+        "html": "Un ingeniero debe transmitir:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Serenidad ante incidencias.</p>",
+          "<p>Capacidad para priorizar.</p>",
+          "<p>Enfoque en soluciones.</p>",
+          "<p>Razonamiento técnico.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "<strong>125 → D (Totalmente de acuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Soy de los que dedican tiempo a analizar en detalle los factores que han causado un problema.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Capacidad de análisis</strong></p>",
+          "<p><strong>Búsqueda de causas raíz</strong></p>",
+          "<p><strong>Rigor técnico</strong></p>",
+          "<p><strong>Metodología de resolución de problemas</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un perfil de ingeniería debe investigar las causas de los problemas antes de actuar. Analizar los factores que han provocado una incidencia permite plantear soluciones más eficaces, prevenir que vuelva a ocurrir y mejorar los procesos."
+      },
+      {
+        "type": "p",
+        "html": "Eso sí, el matiz importante es que el análisis debe ser <strong>proporcionado</strong>: investigar lo necesario sin quedarse bloqueado en el estudio y sin retrasar la toma de decisiones."
+      },
+      {
+        "type": "p",
+        "html": "<strong>126 → D (Totalmente de acuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Ante un problema hay que buscar varias alternativas de solución y no limitarse a la que parece más fácil o evidente.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Pensamiento crítico**"
+      },
+      {
+        "type": "span",
+        "html": "* **Creatividad en la resolución de problemas**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de análisis de alternativas**"
+      },
+      {
+        "type": "span",
+        "html": "* **Toma de decisiones técnicas**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En ingeniería es importante valorar distintas soluciones antes de decidir, teniendo en cuenta aspectos como:"
+      },
+      {
+        "type": "span",
+        "html": "* Viabilidad técnica."
+      },
+      {
+        "type": "span",
+        "html": "* Coste."
+      },
+      {
+        "type": "span",
+        "html": "* Seguridad."
+      },
+      {
+        "type": "span",
+        "html": "* Normativa aplicable."
+      },
+      {
+        "type": "span",
+        "html": "* Plazos."
+      },
+      {
+        "type": "span",
+        "html": "* Mantenimiento futuro."
+      },
+      {
+        "type": "span",
+        "html": "Elegir la primera solución que aparece puede llevar a decisiones poco óptimas. Un buen ingeniero analiza opciones y selecciona la más adecuada."
+      },
+      {
+        "type": "span",
+        "html": "**127 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Soy capaz de resolver con soltura y eficacia problemas cotidianos que se presentan en mi actividad diaria.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de resolución de problemas**"
+      },
+      {
+        "type": "span",
+        "html": "* **Autonomía en el trabajo**"
+      },
+      {
+        "type": "span",
+        "html": "* **Seguridad en las propias capacidades**"
+      },
+      {
+        "type": "span",
+        "html": "* **Eficiencia y adaptación ante imprevistos**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe ser capaz de afrontar incidencias habituales de forma autónoma, organizar prioridades y encontrar soluciones prácticas sin depender constantemente de otros. La resolución eficaz de problemas del día a día es una competencia clave en puestos técnicos."
+      },
+      {
+        "type": "span",
+        "html": "Además, esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Confianza profesional."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad para tomar decisiones."
+      },
+      {
+        "type": "span",
+        "html": "* Iniciativa."
+      },
+      {
+        "type": "span",
+        "html": "* Orientación a resultados."
+      },
+      {
+        "type": "span",
+        "html": "**128 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Me resulta muy complicado encontrar la solución a un problema cuando la información disponible es confusa o incompleta.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Tolerancia a la incertidumbre**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de análisis con información limitada**"
+      },
+      {
+        "type": "span",
+        "html": "* **Adaptabilidad**"
+      },
+      {
+        "type": "span",
+        "html": "* **Resolución de problemas complejos**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **A — Totalmente en desacuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En ingeniería es frecuente trabajar con información parcial, planos incompletos, requisitos que cambian o incidencias donde hay que investigar y recopilar datos. Un buen profesional debe ser capaz de analizar la situación, buscar información adicional y plantear soluciones incluso cuando no tiene todos los datos desde el principio."
+      },
+      {
+        "type": "span",
+        "html": "Elegir \"Totalmente de acuerdo\" transmitiría dificultad para desenvolverse en situaciones ambiguas o complejas."
+      },
+      {
+        "type": "span",
+        "html": "**129 → A (Totalmente en desacuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Creo que los demás consideran que explico con claridad las claves de un problema y la lógica de su resolución.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Comunicación técnica**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de explicar conceptos complejos**"
+      },
+      {
+        "type": "span",
+        "html": "* **Trabajo en equipo**"
+      },
+      {
+        "type": "span",
+        "html": "* **Liderazgo y transmisión de conocimiento**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero no solo debe encontrar soluciones, sino también ser capaz de explicar el problema, las causas y la solución propuesta a compañeros, clientes, proveedores o responsables no técnicos. La comunicación clara es fundamental para que las decisiones técnicas sean comprendidas y aceptadas."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad para defender propuestas técnicas."
+      },
+      {
+        "type": "span",
+        "html": "* Claridad en la comunicación."
+      },
+      {
+        "type": "span",
+        "html": "* Facilidad para coordinarse con otros departamentos."
+      },
+      {
+        "type": "span",
+        "html": "* Orientación al cliente y al equipo."
+      },
+      {
+        "type": "span",
+        "html": "**130 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Cuando realizo una tarea me aseguro de conocer con exactitud lo que hay que hacer y cómo, para no equivocarme.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Planificación y organización**"
+      },
+      {
+        "type": "span",
+        "html": "* **Rigor y precisión en el trabajo**"
+      },
+      {
+        "type": "span",
+        "html": "* **Responsabilidad profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Orientación a la calidad**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En ingeniería es fundamental comprender bien los requisitos, procedimientos, planos, especificaciones y objetivos antes de ejecutar una tarea. Trabajar con precisión reduce errores, retrabajos y riesgos, especialmente en ámbitos donde intervienen seguridad, normativa o costes."
+      },
+      {
+        "type": "span",
+        "html": "El matiz positivo es que no significa quedarse bloqueado buscando una información perfecta, sino asegurarse de tener claros los aspectos importantes antes de actuar."
+      },
+      {
+        "type": "span",
+        "html": "**131 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Necesito ayuda para realizar un trabajo de principio a fin.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Autonomía laboral**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad para asumir responsabilidades**"
+      },
+      {
+        "type": "span",
+        "html": "* **Confianza profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de gestión de proyectos**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **A — Totalmente en desacuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe ser capaz de organizar y desarrollar trabajos de forma autónoma, desde la planificación inicial hasta la finalización, aunque pueda solicitar apoyo en aspectos concretos cuando sea necesario."
+      },
+      {
+        "type": "span",
+        "html": "Responder \"de acuerdo\" podría transmitir dependencia excesiva o falta de seguridad para gestionar proyectos completos."
+      },
+      {
+        "type": "span",
+        "html": "El matiz correcto es:"
+      },
+      {
+        "type": "span",
+        "html": "* Pedir ayuda puntual cuando un tema lo requiere es positivo."
+      },
+      {
+        "type": "span",
+        "html": "* Pero necesitar ayuda constante para completar un trabajo completo no es lo esperado en un perfil técnico cualificado."
+      },
+      {
+        "type": "span",
+        "html": "**132 → A (Totalmente en desacuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Me considero capaz de realizar cualquier trabajo de principio a fin sin que nadie tenga que supervisarlo.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Autonomía profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Confianza en las propias capacidades**"
+      },
+      {
+        "type": "span",
+        "html": "* **Responsabilidad**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de gestión independiente**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **C — De acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe mostrar capacidad para asumir trabajos completos y desarrollarlos con autonomía. Sin embargo, la frase utiliza **\"cualquier trabajo\"** y **\"sin que nadie tenga que supervisarlo\"**, lo que es demasiado absoluto. Incluso profesionales con experiencia necesitan revisiones, coordinación, validaciones o trabajo en equipo en determinados proyectos."
+      },
+      {
+        "type": "span",
+        "html": "La respuesta más equilibrada transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Soy autónomo y capaz de gestionar tareas completas."
+      },
+      {
+        "type": "span",
+        "html": "* No dependo constantemente de supervisión."
+      },
+      {
+        "type": "span",
+        "html": "* Acepto revisiones y colaboración cuando el proyecto lo requiere."
+      },
+      {
+        "type": "span",
+        "html": "**133 → C (De acuerdo)** ✅"
+      },
+      {
+        "type": "span",
+        "html": "*(Evitaría D porque puede interpretarse como exceso de confianza o poca predisposición a trabajar en equipo y aceptar revisiones.)*"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Prefiero que otros revisen mi trabajo ante el temor a cometer errores.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Seguridad y confianza profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Autonomía**"
+      },
+      {
+        "type": "span",
+        "html": "* **Responsabilidad sobre el propio trabajo**"
+      },
+      {
+        "type": "span",
+        "html": "* **Gestión del miedo al error**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **A — Totalmente en desacuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe ser responsable de su trabajo y confiar en sus conocimientos y criterios técnicos. Aunque las revisiones de calidad, cálculos o proyectos son habituales y positivas en ingeniería, no deben hacerse por miedo a equivocarse, sino como parte de un proceso profesional de validación."
+      },
+      {
+        "type": "span",
+        "html": "La respuesta ideal transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Confianza en las propias capacidades."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad para asumir responsabilidades."
+      },
+      {
+        "type": "span",
+        "html": "* Uso de revisiones como mejora, no como dependencia."
+      },
+      {
+        "type": "span",
+        "html": "**134 → A (Totalmente en desacuerdo)** ✅"
+      },
+      {
+        "type": "span",
+        "html": "*(Evitaría C o D porque podrían indicar inseguridad, falta de autonomía o necesidad excesiva de supervisión.)*"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Generalmente prefiero actividades o trabajos que exijan un alto grado de responsabilidad.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Asunción de responsabilidades**"
+      },
+      {
+        "type": "span",
+        "html": "* **Motivación profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Compromiso con el trabajo**"
+      },
+      {
+        "type": "span",
+        "html": "* **Orientación al logro**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Los puestos de ingeniería suelen implicar tomar decisiones técnicas, gestionar proyectos, cumplir normativas, coordinar recursos y asumir la responsabilidad de los resultados. Mostrar predisposición hacia tareas con responsabilidad es una característica valorada."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Iniciativa."
+      },
+      {
+        "type": "span",
+        "html": "* Madurez profesional."
+      },
+      {
+        "type": "span",
+        "html": "* Confianza para afrontar retos."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad de liderazgo."
+      },
+      {
+        "type": "span",
+        "html": "**135 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Me esfuerzo por realizar tareas cada vez más exigentes y que me ayuden a progresar.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Motivación de desarrollo profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Ambición y orientación al crecimiento**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de aprendizaje**"
+      },
+      {
+        "type": "span",
+        "html": "* **Proactividad**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En ingeniería es importante mantenerse actualizado, asumir nuevos retos y buscar la mejora continua. Un profesional que quiere progresar suele adaptarse mejor a nuevos proyectos, tecnologías y responsabilidades."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Iniciativa para aprender."
+      },
+      {
+        "type": "span",
+        "html": "* Interés por mejorar competencias."
+      },
+      {
+        "type": "span",
+        "html": "* Disposición a asumir retos."
+      },
+      {
+        "type": "span",
+        "html": "* Orientación al futuro."
+      },
+      {
+        "type": "span",
+        "html": "**136 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Me siento capaz de tomar una decisión crítica si es necesario para avanzar en mi trabajo.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Toma de decisiones**"
+      },
+      {
+        "type": "span",
+        "html": "* **Autonomía profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Seguridad y responsabilidad**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de actuar ante situaciones importantes**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe ser capaz de analizar situaciones, asumir responsabilidades y tomar decisiones cuando sea necesario, especialmente ante problemas técnicos, cambios de proyecto, incidencias o decisiones que afectan a plazos, costes o seguridad."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Confianza en el criterio propio."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad de liderazgo."
+      },
+      {
+        "type": "span",
+        "html": "* Responsabilidad ante situaciones críticas."
+      },
+      {
+        "type": "span",
+        "html": "* Orientación a resultados."
+      },
+      {
+        "type": "span",
+        "html": "El matiz importante es que una decisión crítica debe estar basada en datos y criterios técnicos, no en actuar impulsivamente."
+      },
+      {
+        "type": "span",
+        "html": "**137 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Cuando se me presenta un obstáculo que me impide avanzar actúo de inmediato para solventarlo.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Proactividad**"
+      },
+      {
+        "type": "span",
+        "html": "* **Iniciativa**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de reacción ante problemas**"
+      },
+      {
+        "type": "span",
+        "html": "* **Orientación a resultados**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En ingeniería es importante no quedarse bloqueado ante dificultades. Un buen profesional identifica los obstáculos, analiza la situación y toma medidas para resolverlos, evitando retrasos en proyectos o trabajos."
+      },
+      {
+        "type": "span",
+        "html": "La respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Iniciativa para buscar soluciones."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad de actuación."
+      },
+      {
+        "type": "span",
+        "html": "* Responsabilidad sobre los resultados."
+      },
+      {
+        "type": "span",
+        "html": "* Mentalidad de mejora continua."
+      },
+      {
+        "type": "span",
+        "html": "El matiz es que \"actuar de inmediato\" no significa precipitarse; lo ideal es reaccionar con rapidez, pero aplicando un análisis técnico adecuado."
+      },
+      {
+        "type": "span",
+        "html": "**138 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Necesito generalmente el control y empuje de otros para completar una actividad en plazo.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Autonomía**"
+      },
+      {
+        "type": "span",
+        "html": "* **Responsabilidad personal**"
+      },
+      {
+        "type": "span",
+        "html": "* **Gestión del tiempo**"
+      },
+      {
+        "type": "span",
+        "html": "* **Motivación y disciplina laboral**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **A — Totalmente en desacuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe ser capaz de organizar su trabajo, cumplir plazos y avanzar sin necesitar supervisión o presión constante de otras personas. La coordinación con responsables o compañeros es normal, pero no debe depender de que otros le impulsen para terminar sus tareas."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Autonomía."
+      },
+      {
+        "type": "span",
+        "html": "* Compromiso con los objetivos."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad de planificación."
+      },
+      {
+        "type": "span",
+        "html": "* Fiabilidad profesional."
+      },
+      {
+        "type": "span",
+        "html": "**139 → A (Totalmente en desacuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Los problemas me afectan hasta el punto que, incluso ya resueltos, me cuesta volver a concentrarme en lo que estaba haciendo.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Gestión emocional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Resiliencia**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de recuperación tras dificultades**"
+      },
+      {
+        "type": "span",
+        "html": "* **Concentración y estabilidad en el trabajo**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **A — Totalmente en desacuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En un entorno técnico es habitual enfrentarse a incidencias, errores o problemas. Un buen profesional debe ser capaz de resolverlos, aprender de ellos y volver a centrarse en las tareas pendientes sin quedarse bloqueado emocionalmente."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad para mantener la productividad."
+      },
+      {
+        "type": "span",
+        "html": "* Control ante situaciones adversas."
+      },
+      {
+        "type": "span",
+        "html": "* Adaptación y profesionalidad."
+      },
+      {
+        "type": "span",
+        "html": "* Enfoque en soluciones."
+      },
+      {
+        "type": "span",
+        "html": "El matiz es que es normal que un problema importante genere cierta preocupación, pero no debería impedir recuperar la concentración una vez solucionado."
+      },
+      {
+        "type": "span",
+        "html": "**140 → A (Totalmente en desacuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Habitualmente mis compañeros acuden a mí para que les asesore en la resolución de problemas que no saben cómo abordar.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Conocimiento técnico y experiencia**"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de apoyo al equipo**"
+      },
+      {
+        "type": "span",
+        "html": "* **Liderazgo informal**"
+      },
+      {
+        "type": "span",
+        "html": "* **Confianza que generan tus criterios**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** En un perfil técnico se valora que otros compañeros reconozcan tu capacidad para analizar problemas y aportar soluciones. Un ingeniero suele actuar como referencia técnica, ayudando a resolver incidencias y compartiendo conocimientos."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Dominio técnico."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad de colaboración."
+      },
+      {
+        "type": "span",
+        "html": "* Facilidad para comunicar soluciones."
+      },
+      {
+        "type": "span",
+        "html": "* Orientación al trabajo en equipo."
+      },
+      {
+        "type": "span",
+        "html": "**141 → D (Totalmente de acuerdo)** ✅"
+      },
+      {
+        "type": "span",
+        "html": "*(Si tu experiencia profesional todavía es limitada, una opción C también podría ser coherente, pero en un test de competencias para ingeniero la opción más valorada suele ser D.)*"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Anticipo problemas que pueden acontecer en el trabajo y propongo actuaciones para prevenirlos o para minimizar su impacto.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Proactividad</strong></p>",
+          "<p><strong>Planificación</strong></p>",
+          "<p><strong>Pensamiento preventivo</strong></p>",
+          "<p><strong>Gestión de riesgos</strong></p>",
+          "<p><strong>Capacidad de mejora continua</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un buen ingeniero no solo reacciona ante los problemas cuando aparecen, sino que intenta preverlos y establecer medidas preventivas. Esta competencia es especialmente importante en proyectos industriales, mantenimiento, producción, instalaciones y seguridad."
+      },
+      {
+        "type": "p",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Capacidad de anticipación.</p>",
+          "<p>Mentalidad preventiva.</p>",
+          "<p>Reducción de riesgos y costes.</p>",
+          "<p>Visión global del proyecto.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Ejemplos:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Detectar un posible fallo en una instalación antes de que ocurra.</p>",
+          "<p>Prever retrasos en un proyecto y proponer alternativas.</p>",
+          "<p>Identificar riesgos de seguridad y establecer medidas correctoras.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "<strong>142 → D (Totalmente de acuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "span",
+        "html": "> **\"Soy reconocido por los demás por resolver los problemas con agilidad y eficacia.\"**"
+      },
+      {
+        "type": "span",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "span",
+        "html": "* **Capacidad de resolución de problemas**"
+      },
+      {
+        "type": "span",
+        "html": "* **Eficiencia en la toma de decisiones**"
+      },
+      {
+        "type": "span",
+        "html": "* **Reconocimiento profesional**"
+      },
+      {
+        "type": "span",
+        "html": "* **Confianza del equipo en tus capacidades**"
+      },
+      {
+        "type": "span",
+        "html": "Para un puesto de **Ingeniero Técnico Industrial**, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "span",
+        "html": "✅ **D — Totalmente de acuerdo**"
+      },
+      {
+        "type": "span",
+        "html": "**Motivo:** Un ingeniero debe ser capaz de analizar incidencias, encontrar soluciones prácticas y actuar con eficacia. Además, que los compañeros reconozcan esa capacidad indica que eres una persona de referencia dentro del equipo."
+      },
+      {
+        "type": "span",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "span",
+        "html": "* Competencia técnica."
+      },
+      {
+        "type": "span",
+        "html": "* Rapidez de respuesta."
+      },
+      {
+        "type": "span",
+        "html": "* Fiabilidad."
+      },
+      {
+        "type": "span",
+        "html": "* Capacidad para aportar valor al equipo."
+      },
+      {
+        "type": "span",
+        "html": "El matiz es que \"agilidad\" no significa actuar sin analizar; la mejor resolución combina rapidez con criterio técnico."
+      },
+      {
+        "type": "span",
+        "html": "**143 → D (Totalmente de acuerdo)** ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Intuyo con facilidad problemas que no resultan evidentes y me involucro en su resolución.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Capacidad de anticipación</strong></p>",
+          "<p><strong>Pensamiento analítico</strong></p>",
+          "<p><strong>Iniciativa</strong></p>",
+          "<p><strong>Orientación preventiva</strong></p>",
+          "<p><strong>Compromiso con la mejora</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un buen ingeniero debe ser capaz de detectar señales tempranas de posibles problemas, incluso antes de que sean evidentes, y actuar para evitar consecuencias mayores. Esta competencia es muy valorada en mantenimiento, diseño, instalaciones y gestión de proyectos."
+      },
+      {
+        "type": "p",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Visión preventiva.</p>",
+          "<p>Capacidad de análisis.</p>",
+          "<p>Iniciativa para mejorar procesos.</p>",
+          "<p>Responsabilidad más allá de las tareas asignadas.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "El matiz es que \"intuir\" debe ir acompañado de análisis técnico y datos; no se trata de actuar por suposiciones, sino de detectar indicios y comprobarlos."
+      },
+      {
+        "type": "p",
+        "html": "<strong>144 → D (Totalmente de acuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Me bloqueo y no puedo continuar una tarea cuando se presenta un problema y no me siento capaz de resolverlo dada su complejidad.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Gestión de problemas complejos</strong></p>",
+          "<p><strong>Resiliencia</strong></p>",
+          "<p><strong>Autonomía</strong></p>",
+          "<p><strong>Confianza profesional</strong></p>",
+          "<p><strong>Capacidad de buscar alternativas</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>A — Totalmente en desacuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> En ingeniería es habitual encontrarse con problemas complejos o situaciones donde no se dispone de toda la información. Un buen profesional debe mantener la calma, analizar el problema, buscar información, consultar cuando sea necesario y avanzar hacia una solución."
+      },
+      {
+        "type": "p",
+        "html": "Responder de acuerdo podría transmitir:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Baja tolerancia a la dificultad.</p>",
+          "<p>Dependencia excesiva de otros.</p>",
+          "<p>Dificultad para trabajar con incertidumbre.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "La respuesta más adecuada refleja:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Capacidad de adaptación.</p>",
+          "<p>Perseverancia.</p>",
+          "<p>Pensamiento analítico.</p>",
+          "<p>Orientación a soluciones.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "<strong>145 → A (Totalmente en desacuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Generalmente no me implico en los problemas que suceden a mi alrededor a menos que me impacten directamente.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Trabajo en equipo</strong></p>",
+          "<p><strong>Compromiso con la organización</strong></p>",
+          "<p><strong>Iniciativa</strong></p>",
+          "<p><strong>Colaboración y actitud de apoyo</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>A — Totalmente en desacuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> En un entorno industrial, los problemas de un área pueden afectar a otras. Un buen ingeniero debe tener una visión global, colaborar con compañeros y aportar soluciones aunque el problema no le afecte directamente."
+      },
+      {
+        "type": "p",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Implicación con el equipo.</p>",
+          "<p>Responsabilidad compartida.</p>",
+          "<p>Iniciativa.</p>",
+          "<p>Orientación a la mejora colectiva.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "El matiz es que no significa asumir todos los problemas de la organización sin límites, sino mostrar disposición a colaborar cuando se detectan situaciones que pueden afectar al proyecto o al equipo."
+      },
+      {
+        "type": "p",
+        "html": "<strong>146 → A (Totalmente en desacuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Cuando se interpone un problema prefiero dejarlo apartado y continuar, normalmente se acaban resolviendo solos.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Proactividad</strong></p>",
+          "<p><strong>Responsabilidad</strong></p>",
+          "<p><strong>Capacidad de resolución de problemas</strong></p>",
+          "<p><strong>Orientación a resultados</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>A — Totalmente en desacuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> En ingeniería, dejar problemas sin abordar puede provocar mayores consecuencias: retrasos, sobrecostes, fallos técnicos o riesgos de seguridad. Un buen profesional debe identificar el problema, analizarlo y actuar para resolverlo o buscar una solución adecuada."
+      },
+      {
+        "type": "p",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Iniciativa.</p>",
+          "<p>Responsabilidad.</p>",
+          "<p>Capacidad de anticipación.</p>",
+          "<p>Compromiso con los objetivos.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "El matiz es que algunos problemas pueden requerir esperar información o una decisión, pero deben estar gestionados, no simplemente ignorados esperando que desaparezcan."
+      },
+      {
+        "type": "p",
+        "html": "<strong>147 → A (Totalmente en desacuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Muchas veces compruebo que las cosas que ya sé me resultan útiles para resolver situaciones nuevas o complejas.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Capacidad de aprendizaje</strong></p>",
+          "<p><strong>Aplicación de conocimientos previos</strong></p>",
+          "<p><strong>Experiencia y transferencia de habilidades</strong></p>",
+          "<p><strong>Pensamiento analítico</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>D — Totalmente de acuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> Un ingeniero debe ser capaz de aplicar conocimientos adquiridos, experiencias anteriores y metodologías conocidas para resolver nuevos problemas. La capacidad de relacionar situaciones previas con retos nuevos permite trabajar con mayor eficacia."
+      },
+      {
+        "type": "p",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Capacidad de aprendizaje continuo.</p>",
+          "<p>Aprovechamiento de la experiencia.</p>",
+          "<p>Buen criterio técnico.</p>",
+          "<p>Capacidad para encontrar patrones y soluciones.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "El matiz es que no significa aplicar siempre la misma solución, sino utilizar conocimientos previos como base y adaptarlos a cada situación."
+      },
+      {
+        "type": "p",
+        "html": "<strong>148 → D (Totalmente de acuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Si es necesario dejo lo que estoy haciendo para ayudar a alguien con problemas.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Trabajo en equipo</strong></p>",
+          "<p><strong>Colaboración</strong></p>",
+          "<p><strong>Orientación al compañero</strong></p>",
+          "<p><strong>Capacidad de priorización</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>C — De acuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> La disposición a ayudar a compañeros es una competencia muy valorada en entornos técnicos, donde los problemas suelen requerir colaboración. Sin embargo, la frase dice <strong>\"dejo lo que estoy haciendo\"</strong>, lo que puede ser excesivo si implica descuidar tareas propias, plazos o responsabilidades asignadas."
+      },
+      {
+        "type": "p",
+        "html": "La respuesta equilibrada transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Disponibilidad para colaborar.</p>",
+          "<p>Espíritu de equipo.</p>",
+          "<p>Capacidad para apoyar cuando es necesario.</p>",
+          "<p>Capacidad para gestionar prioridades.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "No recomendaría <strong>D (Totalmente de acuerdo)</strong> porque podría interpretarse como que interrumpes frecuentemente tus propias tareas y no gestionas bien tus compromisos."
+      },
+      {
+        "type": "p",
+        "html": "<strong>149 → C (De acuerdo)</strong> ✅"
+      },
+      {
+        "type": "p",
+        "html": "<em>(Si el puesto tuviera un componente muy fuerte de coordinación de equipos o jefe de proyecto, podría valorarse más alto, pero para ingeniero técnico la opción C suele ser más equilibrada.)</em>"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Me cuesta ponerme a trabajar si no me encuentro con ánimos.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Disciplina y constancia</strong></p>",
+          "<p><strong>Automotivación</strong></p>",
+          "<p><strong>Responsabilidad profesional</strong></p>",
+          "<p><strong>Capacidad para mantener el rendimiento</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>A — Totalmente en desacuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> En un entorno profesional no siempre se trabaja con la misma motivación o energía, pero se espera que un ingeniero sea capaz de cumplir sus responsabilidades, organizarse y mantener la productividad independientemente de su estado de ánimo."
+      },
+      {
+        "type": "p",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Profesionalidad.</p>",
+          "<p>Fiabilidad.</p>",
+          "<p>Autonomía.</p>",
+          "<p>Capacidad de compromiso con objetivos y plazos.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "El matiz es que tener días menos motivados es normal, pero no debería impedir iniciar o completar las tareas asignadas."
+      },
+      {
+        "type": "p",
+        "html": "<strong>150 → A (Totalmente en desacuerdo)</strong> ✅"
+      }
+    ]
+  },
+  {
+    "type": "div",
+    "cssClass": "node-block",
+    "content": [
+      {
+        "type": "p",
+        "html": "La frase es:"
+      },
+      {
+        "type": "blockquote",
+        "html": "<p><strong>\"Me enfada que la gente me pida favores.\"</strong></p>"
+      },
+      {
+        "type": "p",
+        "html": "Esta pregunta evalúa:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p><strong>Colaboración y compañerismo</strong></p>",
+          "<p><strong>Actitud de servicio</strong></p>",
+          "<p><strong>Flexibilidad</strong></p>",
+          "<p><strong>Relaciones interpersonales</strong></p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Para un puesto de <strong>Ingeniero Técnico Industrial</strong>, la respuesta más adecuada sería:"
+      },
+      {
+        "type": "p",
+        "html": "✅ <strong>A — Totalmente en desacuerdo</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Motivo:</strong> En un entorno industrial es habitual colaborar con compañeros de otros departamentos, técnicos, proveedores o clientes. Que te pidan ayuda forma parte del trabajo en equipo y debe verse como una oportunidad de colaboración, no como una molestia."
+      },
+      {
+        "type": "p",
+        "html": "Esta respuesta transmite:"
+      },
+      {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+          "<p>Buena disposición para ayudar.</p>",
+          "<p>Capacidad de trabajo en equipo.</p>",
+          "<p>Actitud constructiva.</p>",
+          "<p>Facilidad para colaborar.</p>"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "El matiz es que ayudar no significa descuidar siempre tus propias responsabilidades; lo importante es saber gestionar prioridades."
+      },
+      {
+        "type": "p",
+        "html": "<strong>151 → A (Totalmente en desacuerdo)</strong> ✅"
+      }
+    ]
+  }
+]
