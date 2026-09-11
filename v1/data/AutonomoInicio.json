@@ -1,0 +1,628 @@
+[
+    {
+        "type": "h1",
+        "html": "Plan de Habilitaciones e Inicio de Actividad como Autónomo",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "<strong>Perfil del Solicitante:</strong> Ingeniero Técnico Industrial (Especialidad Mecánica) - Plan de Estudios de 1976 (Promoción 1997).",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "<strong>Marco Legal de Ventaja:</strong> <a href=\"https://www.boe.es/eli/es/l/1986/04/01/12/con\">Ley 12/1986 de atribuciones profesionales</a> y <a href=\"https://www.boe.es/eli/es/rd/2010/05/07/560/con\">Real Decreto 560/2010</a> (competencia directa y exención de exámenes teóricos/prácticos para titulados universitarios de la rama industrial).",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "<strong>UNEX:</strong> <a href=\"https://uex23.unex.es:8443/reports/rwservlet?conuex&amp;paramform=yes&amp;report=rpla_convadap_uex_sin_grupo.rdf&amp;destype=cache&amp;desformat=pdf\">Convalidaciones</a>",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "<strong>Nota importante sobre Fontanería:</strong> No requiere carnet administrativo de Industria. Tu titulación y el Código Técnico de la Edificación (CTE DB-HS4) te otorgan competencia directa para ejecutar, firmar y legalizar instalaciones de agua ante ayuntamientos y suministradoras.",
+        "cssClass": "node-block user-div alert node-block"
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div alert-info",
+        "content": [
+            {
+                "type": "h3",
+                "html": "💡 Aclaración Legal Crítica: ¿Existen los 'Carnets' Físicos?",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "p",
+                "html": "El sistema actual divide tu situación en dos realidades distintas:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<span class=\"item-text\">\n   <strong>Baja Tensión (Electricidad):</strong> El carnet ya no existe. Eres 'Profesional Habilitado' directamente por tu título universitario.</span>",
+                    "<span class=\"item-text\">\n   <strong>RITE, Gas y PPL:</strong> El carnet SÍ existe administrativamente en la JCCM. Debes solicitar su convalidación directa para facilitar trámites con distribuidores.</span>"
+                ],
+                "cssClass": "node-block"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "html": "Convalidación Directa por ley",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "Debes tramitar la convalidación de los siguientes títulos habilitantes en la Sede Electrónica de la JCCM, basándote en las asignaturas específicas de tu Plan de 1976:",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "table",
+        "headers": [
+            "",
+            "Especialidad",
+            "Ámbito de Actuación Legal",
+            "Validación (Plan 1976 - ITI Mecánica)"
+        ],
+        "rows": [
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge\">Baja Tensión (BT)</span>",
+                    "Instalaciones eléctricas en viviendas, locales y naves. Categoría Básica.",
+                    "Convalidado vía <strong>Física</strong> (1º) y <strong>Electricidad Industrial</strong> (3º)."
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge\">RITE</span>",
+                    "Instalaciones Térmicas en Edificios (Climatización, Calefacción, Aerotermia).",
+                    "Exención por Atribuciones Profesionales directas de la especialidad Mecánica, y asignaturas como <strong>Cálculo, Construcción y Ensayo de Máquinas</strong>."
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge\">Gas (Categorías A o B)</span>",
+                    "Instalaciones receptoras de gas, GLP, salas de calderas de gas y acometidas.",
+                    "Convalidado vía <strong>Termodinámica y Termotecnia</strong> (2º), <strong>Mecánica y Máquinas de Fluidos</strong> (3º)."
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge\">PPL</span>",
+                    "Productos Petrolíferos Líquidos (Depósitos de gasóleo para calefacción/industria).",
+                    "Exención directa por asignaturas de fluidos e instalaciones del Plan 76."
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge\">Calderas</span>",
+                    "Operador de calderas industriales de alta presión y vapor.",
+                    "Convalidado vía <strong>Termodinámica y Motores Térmicos</strong> (3º) y bloque de fluidos."
+                ]
+            }
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h2",
+        "html": "BLOQUE 1: Acreditación del Profesional Habilitado",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "table",
+        "headers": [
+            "",
+            "Especialidad",
+            "Acción en la JCCM",
+            "Validación Universitaria"
+        ],
+        "rows": [
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge\">Baja Tensión (BT)</span>",
+                    "Ninguna (Declaración Responsable)",
+                    "Física (1º) y Electricidad Industrial (3º)"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge badge-warning\">RITE (Clima)</span>",
+                    "<strong>Solicitar convalidación del Carné</strong>",
+                    "Atribuciones directas y Cálculo de Máquinas"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge badge-warning\">Gas (A o B)</span>",
+                    "<strong>Solicitar convalidación del Carné</strong>",
+                    "Termodinámica (2º) y Mecánica de Fluidos (3º)"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<span class=\"badge badge-warning\">PPL y Calderas</span>",
+                    "<strong>Solicitar convalidación del Carné</strong>",
+                    "Bloque de fluidos y motores térmicos"
+                ]
+            }
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "Documentación Maestra Necesaria para los Carnets",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+            "<span class=\"item-text\">\n   <strong>Título Oficial:</strong> Copia digitalizada con compulsa o Código de Verificación Electrónica (CVE).</span>",
+            "<span class=\"item-text\">\n   <strong>Certificado Académico Personal (Notas):</strong> Documento clave donde el técnico verificará que superaste las asignaturas mencionadas del Plan de 1976.</span>",
+            "<span class=\"item-text\">\n   <strong>Certificado de Colegiación Activa:</strong> Emitido por el Colegio Oficial de Ingenieros Técnicos Industriales (COITI) de tu provincia en Castilla-La Mancha.</span>",
+            "<span class=\"item-text\">\n   https://www.jccm.es/tramites/1002229#:~:text=Plazo%20de%20resoluci%C3%B3n.,EXPEDICI%C3%93N%3A%20TARIFA%2016.1.</span>"
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "Acceso al Trámite Administrativo",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "Debes iniciar un expediente telemático individualizado por cada carnet seleccionando la opción 'Convalidación por posesión de título universitario':",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "a",
+        "html": "Acceder al Trámite 1002211 - JCCM",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "<em>*Nota: Cada solicitud requiere el pago telemático previo de la tasa de seguridad industrial mediante el Modelo 046.</em>",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h2",
+        "html": "BLOQUE 2: Instrumentación Técnica Obligatoria e Inversión",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "Para formalizar el alta de la empresa instaladora, Industria exige disponer de los siguientes equipos homologados y calibrados:",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "1. Equipamientos Obligatorios para Baja Tensión (ITC-BT-03)",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "table",
+        "headers": [
+            "",
+            "Equipo / Herramienta Técnica",
+            "Función de Inspección Exigida",
+            "Rango de Precios (Sin IVA)"
+        ],
+        "rows": [
+            {
+                "columns": [
+                    "",
+                    "<strong>Telurómetro digital</strong>",
+                    "Medición de resistencia de las tomas de tierra del edificio.",
+                    "190 € - 530 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Medidor de aislamiento (Megóhmetro)</strong>",
+                    "Comprobación de fugas y cortocircuitos en conductores.",
+                    "160 € - 510 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Comprobador de diferenciales</strong>",
+                    "Verificación del tiempo y corriente de disparo de protecciones.",
+                    "150 € - 300 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Multímetro y Pinza amperimétrica</strong>",
+                    "Medición básica de tensión, intensidad y continuidad eléctrica.",
+                    "80 € - 150 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<em>Alternativa Recomendada</em>",
+                    "<strong>Equipo Multifunción BT</strong> (Integra todo en un maletín). Ahorra costes de calibración anual.",
+                    "<strong>700 € - 1.200 €</strong>"
+                ]
+            }
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "2. Equipamientos Obligatorios para RITE, Gas, PPL y Calderas",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "table",
+        "headers": [
+            "",
+            "Equipo / Herramienta Técnica",
+            "Función de Inspección Exigida",
+            "Rango de Precios (Sin IVA)"
+        ],
+        "rows": [
+            {
+                "columns": [
+                    "",
+                    "<strong>Analizador de gases de combustión</strong>",
+                    "Control de O₂, CO, CO₂ y rendimiento térmico en calderas y quemadores.",
+                    "725 € - 1.400 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Detector de fugas de gas</strong>",
+                    "Localización portátil de escapes en instalaciones de gas natural/GLP.",
+                    "120 € - 250 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Bomba de comprobación</strong>",
+                    "Pruebas manuales o eléctricas de estanqueidad en redes de agua y gas.",
+                    "150 € - 350 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Manómetro digital (Columna de agua)</strong>",
+                    "Medición precisa de la presión de entrada de combustible.",
+                    "100 € - 220 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Termómetro de contacto e higrómetro</strong>",
+                    "Control de temperaturas en tuberías y humedad relativa ambiental.",
+                    "60 € - 130 €"
+                ]
+            },
+            {
+                "columns": [
+                    "",
+                    "<strong>Herramientas de mano generales</strong>",
+                    "Llaves, cortatubos, dobladores, etc.",
+                    "300 € - 500 €"
+                ]
+            }
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "span",
+        "html": "Inversión Total Estimada en Equipamientos: 2.000 € — 3.800 € (Aprox.)",
+        "cssClass": "node-block user-div total-box"
+    },
+    {
+        "type": "p",
+        "html": "<em>*Recomendación de compra: Asegúrate de que el distribuidor te entregue los equipos con el certificado de calibración oficial de fábrica del año vigente para evitar rechazos en las auditorías de la JCCM.</em>",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h2",
+        "html": "BLOQUE 3: Alta de Autónomo e Inicio de la Actividad Económica",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "Pasos legales definitivos una vez que obtengas los carnets individuales y los equipos de medición:",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "1. Alta Fiscal en Hacienda (Agencia Tributaria)",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+            "<span class=\"item-text\">\n   Presentación del Modelo 036 de forma telemática.</span>",
+            "<span class=\"item-text\">\n   Alta en el Impuesto de Actividades Económicas (IAE) en los epígrafes correspondientes:</span>"
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+            "<span class=\"item-text\">\n   <strong>Epígrafe 504.1:</strong> Instalaciones eléctricas en general. (Facturación sin retención IRPF).</span>",
+            "<span class=\"item-text\">\n   <strong>Epígrafe 504.3:</strong> Fontanería, frío, calor y aire acondicionado. (Facturación sin retención IRPF).</span>"
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "2. Alta Laboral (Seguridad Social)",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+            "<span class=\"item-text\">\n   Inscripción en el Régimen Especial de Trabajadores Autónomos (RETA).</span>",
+            "<span class=\"item-text\">\n   Solicitud de la Tarifa Plana estatal vigente para nuevos autónomos.</span>"
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "3. Seguro de Responsabilidad Civil Único Comercial",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+            "<span class=\"item-text\">\n   Contratación de una póliza con cobertura combinada para todas las especialidades activas.</span>",
+            "<span class=\"item-text\">\n   La cobertura mínima global debe ajustarse a la más restrictiva impuesta por ley (entre 600.000 € y 1.000.000 €). Consulta las pólizas colectivas del COITI, que ofrecen precios reducidos. _</span>"
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h3",
+        "html": "4. Declaración Responsable de Empresa Instaladora en la JCCM",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "Para poder firmar los boletines y tramitar altas a través de la plataforma electrónica eDice-bt de Castilla-La Mancha, debes notificar el inicio de tu actividad empresarial:",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "a",
+        "html": "Acceder al Trámite 1002261 - Declaración Responsable JCCM",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "En este formulario final marcarás simultáneamente todas las casillas de las actividades para las que posees instrumental y resolución favorable, quedando plenamente habilitado ante la ley para el ejercicio profesional por cuenta propia.",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h2",
+        "html": "BLOQUE 4: Guía de la Declaración Responsable (JCCM)",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div step-box",
+        "content": [
+            {
+                "type": "h3",
+                "html": "Paso 1: Objeto de la Declaración",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "p",
+                "html": "Selecciona 'Alta de Empresa Instaladora'. Presenta una por cada reglamento (Baja Tensión, RITE, etc.).",
+                "cssClass": "node-block"
+            }
+        ]
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div step-box",
+        "content": [
+            {
+                "type": "h3",
+                "html": "Paso 2: Acreditación del Personal Habilitado (Crítico)",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "❌ NO marques 'Poseer Certificado de Profesionalidad' ni 'Superar examen'.",
+                "cssClass": "node-block user-div alert-danger"
+            },
+            {
+                "type": "p",
+                "html": "<strong>Para BT:</strong> Selecciona 'Disponer de titulación universitaria que cubra los contenidos mínimos'.<br><br><strong>Para RITE/Gas:</strong> Si ya tienes el Carné convalidado, introduce su número. <strong>¿Está en trámite y tienes prisa?</strong> No esperes. Selecciona la misma opción que en BT ('Titulación universitaria...'). Tu título de Ingeniero te habilita legalmente para dar de alta la empresa en el acto sin esperar al carnet físico.",
+                "cssClass": "node-block"
+            }
+        ]
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div alert-info",
+        "content": [
+            {
+                "type": "span",
+                "html": "Tranquilo, esto es un cuello de botella súper habitual y no tienes que esperar esos 2 o 3 meses para empezar a facturar y trabajar."
+            },
+            {
+                "type": "span",
+                "html": "Aquí es donde entra en juego la fuerza legal de tu título de Ingeniería. Como comentamos, solicitar el carnet de RITE/Gas a la Junta es algo muy recomendable a nivel comercial (para que los distribuidores no te pongan pegas al comprar gases fluorados o calderas), pero a nivel administrativo, tu título universitario ya es tu habilitación."
+            },
+            {
+                "type": "span",
+                "html": "El \"Bypass\" legal para tu Declaración Responsable\nCuando te sientes la semana que viene frente al ordenador para rellenar la Declaración Responsable de Empresa Instaladora RITE y Gas en la plataforma de la JCCM, debes hacer lo siguiente:"
+            },
+            {
+                "type": "span",
+                "html": "Olvida la opción del Carné: Como aún no tienes el número de registro del carnet (porque está en trámite), NO marques la casilla que dice que posees el \"Carné Profesional RITE/Gas\"."
+            },
+            {
+                "type": "span",
+                "html": "Usa tu comodín universitario: Ve exactamente a la misma casilla que vas a usar para Baja Tensión. Selecciona la opción que indica \"Técnico Titulado Competente\" o \"Disponer de titulación universitaria cuyo plan de estudios cubra los contenidos mínimos\"."
+            },
+            {
+                "type": "span",
+                "html": "Adjunta el título: El sistema te dejará continuar basándose en tus atribuciones como Ingeniero Técnico Industrial (Especialidad Mecánica)."
+            },
+            {
+                "type": "span",
+                "html": "Con esto, la empresa queda legalizada y activa en el acto. Cuando dentro de 3 meses te llegue la resolución favorable con tu número de Carné físico, simplemente te lo guardas en la cartera para enseñárselo a los proveedores de materiales, pero en Industria ya estarás operando legalmente como Empresa Instaladora RITE desde la semana que viene."
+            }
+        ]
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div step-box",
+        "content": [
+            {
+                "type": "h3",
+                "html": "Paso 3 y 4: Medios, Seguro RC y Firma",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "p",
+                "html": "Confirma la posesión de equipos calibrados, introduce tu Seguro RC y firma con Certificado Digital tras abonar el Modelo 046.",
+                "cssClass": "node-block"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "html": "BLOQUE 5: Ayudas Económicas",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div alert-warning",
+        "content": [
+            {
+                "type": "strong",
+                "html": "Estrategia Recomendada:"
+            },
+            {
+                "type": "span",
+                "html": "Empieza solo con los epígrafes empresariales para facilitar la gestión fiscal inicial y asegurar las ayudas."
+            }
+        ]
+    },
+    {
+        "type": "h3",
+        "html": "Fase 1: Alta Inicial (Para acceder a subvenciones)",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "<strong>💰 Impacto en las Ayudas:</strong> Al darte de alta en el RETA por primera vez con los epígrafes 504, activas la Tarifa Plana y las ayudas de inicio de actividad de la JCCM (3.000€). No des de baja estos epígrafes antes de 12-24 meses para no devolver la subvención.",
+        "cssClass": "node-block user-div alert node-block"
+    },
+    {
+        "type": "h3",
+        "html": "Fase 2: Expansión (Solo cuando surja demanda)",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "p",
+        "html": "<strong>Epígrafe 321 (Ingenieros Técnicos):</strong> Añádelo a coste cero mediante Modificación Censal solo cuando necesites firmar un proyecto o peritaje. (Sujeto a retención IRPF del 15% o 7%).",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h2",
+        "html": "BLOQUE 6. Webs útiles con precios de trabajos",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "list",
+        "listType": "ul",
+        "items": [
+            "<span class=\"item-text\">\n   <a href=\"https://motordepresupuestos.com/cuanto-cobra/electricistas\">Motor de Presupuestos - Cuánto cobra un electricista</a></span>",
+            "<span class=\"item-text\">\n   <a href=\"https://juntito.es/lista-de-precios-de-trabajos-electrica/\">Juntito - Lista de precios de trabajos eléctricos</a></span>"
+        ],
+        "cssClass": "node-block"
+    },
+    {
+        "type": "h2",
+        "html": "BLOQUE 7. Seguros de responsabilidad civil",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div",
+        "content": [
+            {
+                "type": "span",
+                "html": "Aunque no puedo darte una cotización vinculante exacta (ya que las primas cambian según la aseguradora y tu estimación de facturación anual), sí puedo darte los rangos de precios reales que se manejan actualmente en el mercado para un autónomo sin trabajadores a cargo."
+            },
+            {
+                "type": "p",
+                "html": "Para abarcar las actividades de Electricidad (Baja Tensión) y Climatización (RITE), la póliza debe cubrir siempre el capital más alto exigido por las distintas normativas. En este caso, Baja Tensión es la más restrictiva, exigiendo una cobertura que ronda los <b>900.000 €</b> (este importe se actualiza anualmente con el IPC)."
+            },
+            {
+                "type": "p",
+                "html": "Al estar colegiado en el COITI, tienes dos vías principales para contratar este seguro, con diferencias importantes en precio y cobertura:"
+            },
+            {
+                "type": "h3",
+                "html": "1. Póliza Colectiva del Colegio Oficial (Recomendada)"
+            },
+            {
+                "type": "p",
+                "html": "Aprovechando los acuerdos colectivos que tienen los Colegios de Ingenieros Técnicos Industriales (generalmente a través de corredurías como Adartia o la mutua MUPITI), puedes acceder a pólizas diseñadas específicamente para tu perfil."
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<p><b>Rango de precios:</b> <b>150 € - 350 € anuales.</b></p>",
+                    "<p><b>La gran ventaja:</b> Estas pólizas \"todo en uno\" están pensadas para la doble vertiente del ingeniero. Por un mismo precio o con un suplemento mínimo, te cubren tanto la <b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"166\" data-path-to-node=\"5,1,0\">Responsabilidad Civil Profesional</b> (los posibles errores de cálculo o diseño al firmar un proyecto como ingeniero colegiado) como la <b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"298\" data-path-to-node=\"5,1,0\">Responsabilidad Civil de Explotación/Post-trabajos</b> (los daños materiales o personales que puedas causar mientras aprietas tuercas montando una caldera o cableando un cuadro).</p>",
+                    "<p style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: block; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\" id=\"p-rc_9badb2d907b8a35d-23\" data-path-to-node=\"5,2,0\"><span style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\" data-path-to-node=\"5,2,0,0\"><b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"0\" data-path-to-node=\"5,2,0,0\">Cobertura:</b> Suelen ofrecer capitales altos por defecto, cumpliendo sobradamente con el tramo de entre 600.000 € y 1.000.000 € exigido por Industria</span><span style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\" data-path-to-node=\"5,2,0,1\"><span style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\"><sup style=\"border-block-color: rgb(68, 71, 70); border-color: rgb(68, 71, 70); border-radius: 50%; border-collapse: separate; border-end-end-radius: 50%; border-end-start-radius: 50%; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(68, 71, 70); border-start-end-radius: 50%; border-start-start-radius: 50%; box-shadow: none; box-sizing: content-box; color: rgb(68, 71, 70); display: inline-flex; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 8px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\"></sup></span></span><span style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\" data-path-to-node=\"5,2,0,2\">.</span>  </p><div style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline-flex; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\"><button style=\"background-color: rgb(242, 240, 240); border-block-color: rgba(0, 0, 0, 0.55); border-color: rgba(0, 0, 0, 0.55); border-radius: 9999px; border-collapse: separate; border-end-end-radius: 9999px; border-end-start-radius: 9999px; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgba(0, 0, 0, 0.55); border-start-end-radius: 9999px; border-start-start-radius: 9999px; box-shadow: none; box-sizing: border-box; color: rgba(0, 0, 0, 0.55); display: flex; font: 400 13.3333px Arial; font-palette: normal; font-synthesis: weight style small-caps; height: 21px; width: 65.4531px;\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-label=\"Consulta los detalles de la fuente de las citas de HTML: index.html y TXT: consolidado-Autonomo.txt. Pulsa Intro para abrir el cuadro de diálogo de fuentes.\"><div style=\"border-block-color: rgba(0, 0, 0, 0.55); border-color: rgba(0, 0, 0, 0.55); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgba(0, 0, 0, 0.55); box-shadow: none; box-sizing: content-box; display: flex; font-family:\" dir=\"auto\"><span style=\"border-block-color: rgba(0, 0, 0, 0.55); border-color: rgba(0, 0, 0, 0.55); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgba(0, 0, 0, 0.55); box-shadow: none; box-sizing: content-box; display: block; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 13px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: normal; font-variation-settings:\">HTML</span><span style=\"border-block-color: rgba(0, 0, 0, 0.55); border-color: rgba(0, 0, 0, 0.55); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgba(0, 0, 0, 0.55); box-shadow: none; box-sizing: content-box; display: block; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 13px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: normal; font-variation-settings:\">+ 1</span></div></button></div><p></p>"
+                ]
+            },
+            {
+                "type": "h3",
+                "html": "2. Mercado Asegurador Libre (Mapfre, Allianz, Axa, Caser)"
+            },
+            {
+                "type": "p",
+                "html": "Si acudes a un corredor de seguros de tu barrio o contratas directamente con una aseguradora generalista para darte de alta exclusivamente como \"Empresa Instaladora\"."
+            },
+            {
+                "type": "list",
+                "listType": "ul",
+                "items": [
+                    "<p style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: block; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\" data-path-to-node=\"8,0,0\"><b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"0\" data-path-to-node=\"8,0,0\">Rango de precios:</b> <b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"18\" data-path-to-node=\"8,0,0\">250 € - 450 € anuales.</b></p>",
+                    "<p style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: block; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\" data-path-to-node=\"8,1,0\"><b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"0\" data-path-to-node=\"8,1,0\">Características:</b> Al solicitar el seguro, te pedirán el epígrafe del IAE (504.1 y 504.3). La prima se calcula estimando que vas a trabajar tú solo (sin empleados).</p>",
+                    "<p style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: block; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: none; font-variation-settings:\" data-path-to-node=\"8,2,0\"><b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"0\" data-path-to-node=\"8,2,0\">El inconveniente:</b> Las aseguradoras tradicionales separan radicalmente al \"instalador\" del \"ingeniero\". Esta póliza de mercado libre te cubrirá perfectamente para trabajar con el destornillador y firmar los boletines, pero <b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"222\" data-path-to-node=\"8,2,0\">no</b> te cubrirá si un cliente te contrata para redactar un proyecto técnico visado. Si en el futuro activas el epígrafe 321 de ingeniería, tendrías que contratar una segunda póliza de RC Profesional, duplicando tus costes.</p>"
+                ]
+            },
+            {
+                "type": "p",
+                "html": "<b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"0\" data-path-to-node=\"9\">Consejo táctico para la contratación:</b>\nSolicita cotización en la correduría que gestione las pólizas de tu sede colegial en Castilla-La Mancha pidiendo expresamente cobertura para <b style=\"border-block-color: rgb(31, 31, 31); border-color: rgb(31, 31, 31); border-collapse: separate; border-image-repeat: stretch; border-image-slice: 100%; border-image-width: 1; border-inline-color: rgb(31, 31, 31); box-shadow: none; box-sizing: content-box; display: inline; font-feature-settings: normal; font-kerning: auto; font-language-override: normal; font-optical-sizing: auto; font-palette: normal; font-size: 17px; font-size-adjust: none; font-stretch: 100%; font-style: normal; font-synthesis: style small-caps; font-variant: none; font-variation-settings:\" data-index-in-node=\"179\" data-path-to-node=\"9\">\"RC Profesional + RC de Explotación como Empresa Instaladora BT/RITE\"</b>. Con la copia de esa póliza en la mano, podrás rellenar la Declaración Responsable en la plataforma de la JCCM con total tranquilidad."
+            }
+        ]
+    }
+]
