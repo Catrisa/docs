@@ -1,0 +1,469 @@
+[
+    {
+        "type": "h2",
+        "html": "Enlace directo",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div node-block alert",
+        "content": [
+            {
+                "type": "span",
+                "html": "¡Esa es la guinda del pastel para una experiencia de usuario perfecta! En Linux (y por tanto en Termux), la mejor forma de hacer esto es crear un **\"Alias\" o Función** en el archivo de configuración de tu terminal (.bashrc).",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "De esta forma, al abrir Termux solo tendrás que teclear una palabra (por ejemplo, dj) y el sistema se encargará de matar los procesos huérfanos, arrancar el servidor en segundo plano y lanzarte el navegador automáticamente.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Aquí tienes los pasos para configurarlo:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 1: Instalar la utilidad de apertura de Termux",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Para que Termux pueda darle la orden a Android de abrir Chrome/Brave, necesitamos un pequeño paquete oficial. Ejecuta esto en Termux:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "pkg install termux-api -y",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 2: Crear el comando personalizado",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Vamos a editar el archivo de inicio de tu terminal para inyectarle tu nuevo supercomando.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "1. Abre el archivo de configuración:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "nano ~/.bashrc",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "2. Vete al final del archivo (si hay algo escrito) y pega esta función. *(Nota: He usado la ruta ~/WebMusica que mencionaste anteriormente, si la cambiaste, ajústala aquí)*:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "dj() {",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "echo \"🛑 Buscando y cerrando sesiones anteriores de TubeDJ...\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "pkill -f \"python app.py\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "sleep 1",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "echo \"🚀 Arrancando TubeDJ Pro en segundo plano...\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "cd ~/WebMusica",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "python app.py &gt; /dev/null 2&gt;&amp;1 &amp;",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "echo \"⏳ Esperando a que el servidor despierte...\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "sleep 2",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "echo \"🌐 Abriendo el navegador...\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "termux-open-url http://localhost:5000",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "}",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "3. Guarda y cierra el editor (Ctrl+O, Enter, Ctrl+X).",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 3: Recargar la terminal",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Para que Termux lea el nuevo comando que acabamos de inventar sin tener que cerrar la app, ejecuta:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "source ~/.bashrc",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### 🎮 Cómo funciona ahora tu día a día:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "A partir de este momento, siempre que abras la app de Termux en tu móvil, **solo tienes que escribir:**",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "dj",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Y pulsar Enter.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "**¿Qué hará exactamente el comando?**",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "1. **pkill -f \"python app.py\"**: Busca en la memoria RAM del móvil si hay algún servidor de Flask encendido y lo \"asesina\" sin piedad. Así evitas el típico error de *Port 5000 is already in use*.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "2. **cd ~/WebMusica**: Se asegura de entrar en la carpeta correcta.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "3. **python app.py &gt; /dev/null 2&gt;&amp;1 &amp;**: El símbolo &amp; final arranca Python \"en segundo plano\". Esto significa que el servidor se queda encendido pero te devuelve el control de la consola por si quieres escribir más cosas. Lo de &gt; /dev/null es para ocultar todo el texto de arranque de Flask y que quede más limpio.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "4. **termux-open-url**: Habla directamente con el sistema operativo de tu móvil y le fuerza a abrir tu navegador predeterminado en la pestaña de localhost:5000.",
+                "cssClass": "node-block"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "html": "Widget Termux",
+        "cssClass": "node-block"
+    },
+    {
+        "type": "div",
+        "cssClass": "node-block user-div node-block alert",
+        "content": [
+            {
+                "type": "span",
+                "html": "¡Esa es la evolución definitiva! Tener un icono en la pantalla de inicio de tu móvil que, al pulsarlo, encienda el servidor de fondo y te abra Chrome automáticamente como si fuera una app nativa.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Para hacer esto, Termux tiene una extensión oficial llamada **Termux:Widget**. Aquí tienes los pasos exactos para configurarlo:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 1: Instalar la extensión Termux:Widget",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Igual que hiciste con Termux, debes descargar esta extensión desde **F-Droid** (si la bajas de la Google Play Store, dará error de incompatibilidad).",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "* Busca y descarga **Termux:Widget** en F-Droid, o bájala directamente desde aquí si tienes F-Droid instalado: Termux:Widget en F-Droid",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "* Instálala en tu móvil.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 2: Crear la carpeta de accesos directos",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Abre tu consola de Termux normal y crea la carpeta oculta especial que lee el Widget para mostrar los botones:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "mkdir -p ~/.shortcuts",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 3: Crear el script del botón",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Vamos a crear un archivo dentro de esa carpeta. Le llamaremos Lanzar_TubeDJ.sh (este será el nombre que aparecerá debajo del icono en tu pantalla):",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "nano ~/.shortcuts/Lanzar_TubeDJ.sh",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Pega el siguiente código dentro (es casi idéntico a tu comando dj, pero adaptado para ejecutarse como un script independiente):",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "#!/bin/bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "# 1. Matar sesiones previas",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "pkill -f \"python app.py\"",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "sleep 1",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "# 2. Entrar a la carpeta y lanzar el servidor en segundo plano",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "cd ~/WebMusica",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "python app.py &gt; /dev/null 2&gt;&amp;1 &amp;",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "# 3. Esperar a que arranque y abrir el navegador",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "sleep 2",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "termux-open-url http://localhost:5000",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Guarda y cierra (Ctrl+O, Enter, Ctrl+X).",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 4: Darle permisos de ejecución",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Para que Android te permita ejecutar este archivo con un toque, tienes que darle permisos de ejecución en Termux:",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```bash",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "chmod +x ~/.shortcuts/Lanzar_TubeDJ.sh",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "```",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "### PASO 5: Colocar el botón en tu Pantalla de Inicio",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "Ahora ya puedes salir de Termux e ir a la pantalla principal de tu móvil (el escritorio de Android):",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "1. Mantén el dedo pulsado en un espacio vacío de la pantalla.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "2. Selecciona la opción de **Widgets**.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "3. Busca en la lista los widgets de **Termux:Widget**. Verás que hay dos opciones: uno que pone un menú de lista, y otro que pone un **\"Shortcut\"** (Acceso directo individual).",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "4. Arrastra el **Termux:Shortcut** a tu pantalla.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "5. Se abrirá una pequeña lista con los archivos que tienes en la carpeta que creamos. Selecciona **Lanzar_TubeDJ.sh**.",
+                "cssClass": "node-block"
+            },
+            {
+                "type": "span",
+                "html": "¡Ya lo tienes! Ahora tienes un icono en tu escritorio. Cuando vayas en el coche o quieras poner música, solo tienes que tocar ese icono. Se abrirá una mini-ventana negra por un segundo, encenderá tu servidor de Python en las sombras y te lanzará Chrome directo a tu aplicación.",
+                "cssClass": "node-block"
+            }
+        ]
+    }
+]
